@@ -11,7 +11,7 @@
       "array_type": "random",
       "size": 100,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 108,
+      "avg_time_us": 110,
       "avg_char_comparisons": 599
     },
     {
@@ -25,104 +25,104 @@
       "array_type": "random",
       "size": 100,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 105,
+      "avg_time_us": 104,
       "avg_char_comparisons": 948
     },
     {
       "array_type": "random",
       "size": 100,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 50,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 47,
       "avg_char_comparisons": 358
     },
     {
       "array_type": "random",
       "size": 100,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 30,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 28,
       "avg_char_comparisons": 309
     },
     {
       "array_type": "random",
       "size": 200,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 176,
+      "avg_time_us": 169,
       "avg_char_comparisons": 1805
     },
     {
       "array_type": "random",
       "size": 200,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 258,
+      "avg_time_us": 252,
       "avg_char_comparisons": 1496
     },
     {
       "array_type": "random",
       "size": 200,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 214,
+      "avg_time_us": 211,
       "avg_char_comparisons": 1665
     },
     {
       "array_type": "random",
       "size": 200,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 242,
+      "avg_time_us": 230,
       "avg_char_comparisons": 2202
     },
     {
       "array_type": "random",
       "size": 200,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 116,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 87,
       "avg_char_comparisons": 782
     },
     {
       "array_type": "random",
       "size": 200,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 75,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 76,
       "avg_char_comparisons": 729
     },
     {
       "array_type": "random",
       "size": 300,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 364,
+      "avg_time_us": 396,
       "avg_char_comparisons": 3328
     },
     {
       "array_type": "random",
       "size": 300,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 395,
+      "avg_time_us": 409,
       "avg_char_comparisons": 2546
     },
     {
       "array_type": "random",
       "size": 300,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 330,
+      "avg_time_us": 337,
       "avg_char_comparisons": 2670
     },
     {
       "array_type": "random",
       "size": 300,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 360,
+      "avg_time_us": 361,
       "avg_char_comparisons": 3549
     },
     {
       "array_type": "random",
       "size": 300,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 125,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 123,
       "avg_char_comparisons": 1212
     },
     {
       "array_type": "random",
       "size": 300,
-      "algorithm": "MSB RADIX SORT (С переключением)",
+      "algorithm": "MSD RADIX SORT (С переключением)",
       "avg_time_us": 130,
       "avg_char_comparisons": 1208
     },
@@ -137,1442 +137,1442 @@
       "array_type": "random",
       "size": 400,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 592,
+      "avg_time_us": 570,
       "avg_char_comparisons": 3658
     },
     {
       "array_type": "random",
       "size": 400,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 419,
+      "avg_time_us": 488,
       "avg_char_comparisons": 3346
     },
     {
       "array_type": "random",
       "size": 400,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 482,
+      "avg_time_us": 483,
       "avg_char_comparisons": 4977
     },
     {
       "array_type": "random",
       "size": 400,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 154,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 155,
       "avg_char_comparisons": 1636
     },
     {
       "array_type": "random",
       "size": 400,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 193,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 217,
       "avg_char_comparisons": 1766
     },
     {
       "array_type": "random",
       "size": 500,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 454,
+      "avg_time_us": 462,
       "avg_char_comparisons": 5613
     },
     {
       "array_type": "random",
       "size": 500,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 738,
+      "avg_time_us": 716,
       "avg_char_comparisons": 4875
     },
     {
       "array_type": "random",
       "size": 500,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 581,
+      "avg_time_us": 630,
       "avg_char_comparisons": 4534
     },
     {
       "array_type": "random",
       "size": 500,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 630,
+      "avg_time_us": 793,
       "avg_char_comparisons": 6549
     },
     {
       "array_type": "random",
       "size": 500,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 196,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 200,
       "avg_char_comparisons": 2080
     },
     {
       "array_type": "random",
       "size": 500,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 250,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 302,
       "avg_char_comparisons": 2329
     },
     {
       "array_type": "random",
       "size": 600,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 581,
+      "avg_time_us": 805,
       "avg_char_comparisons": 7000
     },
     {
       "array_type": "random",
       "size": 600,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 859,
+      "avg_time_us": 932,
       "avg_char_comparisons": 6141
     },
     {
       "array_type": "random",
       "size": 600,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 670,
+      "avg_time_us": 676,
       "avg_char_comparisons": 5545
     },
     {
       "array_type": "random",
       "size": 600,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1141,
+      "avg_time_us": 803,
       "avg_char_comparisons": 8130
     },
     {
       "array_type": "random",
       "size": 600,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
+      "algorithm": "MSD RADIX SORT (Без переключения)",
       "avg_time_us": 223,
       "avg_char_comparisons": 2520
     },
     {
       "array_type": "random",
       "size": 600,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 322,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 327,
       "avg_char_comparisons": 2937
     },
     {
       "array_type": "random",
       "size": 700,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 645,
+      "avg_time_us": 696,
       "avg_char_comparisons": 8517
     },
     {
       "array_type": "random",
       "size": 700,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1091,
+      "avg_time_us": 1037,
       "avg_char_comparisons": 7449
     },
     {
       "array_type": "random",
       "size": 700,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 810,
+      "avg_time_us": 827,
       "avg_char_comparisons": 6544
     },
     {
       "array_type": "random",
       "size": 700,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 954,
+      "avg_time_us": 1019,
       "avg_char_comparisons": 9711
     },
     {
       "array_type": "random",
       "size": 700,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 300,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 272,
       "avg_char_comparisons": 2978
     },
     {
       "array_type": "random",
       "size": 700,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 408,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 420,
       "avg_char_comparisons": 3570
     },
     {
       "array_type": "random",
       "size": 800,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 746,
+      "avg_time_us": 745,
       "avg_char_comparisons": 9977
     },
     {
       "array_type": "random",
       "size": 800,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1217,
+      "avg_time_us": 1237,
       "avg_char_comparisons": 8783
     },
     {
       "array_type": "random",
       "size": 800,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1023,
+      "avg_time_us": 1008,
       "avg_char_comparisons": 8246
     },
     {
       "array_type": "random",
       "size": 800,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1092,
+      "avg_time_us": 2175,
       "avg_char_comparisons": 11409
     },
     {
       "array_type": "random",
       "size": 800,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 297,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 351,
       "avg_char_comparisons": 3416
     },
     {
       "array_type": "random",
       "size": 800,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 471,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 693,
       "avg_char_comparisons": 4203
     },
     {
       "array_type": "random",
       "size": 900,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 963,
+      "avg_time_us": 1195,
       "avg_char_comparisons": 12466
     },
     {
       "array_type": "random",
       "size": 900,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1405,
+      "avg_time_us": 1696,
       "avg_char_comparisons": 10142
     },
     {
       "array_type": "random",
       "size": 900,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1143,
+      "avg_time_us": 1362,
       "avg_char_comparisons": 9180
     },
     {
       "array_type": "random",
       "size": 900,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1270,
+      "avg_time_us": 1304,
       "avg_char_comparisons": 13054
     },
     {
       "array_type": "random",
       "size": 900,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 376,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 330,
       "avg_char_comparisons": 3880
     },
     {
       "array_type": "random",
       "size": 900,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 561,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 570,
       "avg_char_comparisons": 4905
     },
     {
       "array_type": "random",
       "size": 1000,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1099,
+      "avg_time_us": 1100,
       "avg_char_comparisons": 13212
     },
     {
       "array_type": "random",
       "size": 1000,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1590,
+      "avg_time_us": 1545,
       "avg_char_comparisons": 11595
     },
     {
       "array_type": "random",
       "size": 1000,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1266,
+      "avg_time_us": 1308,
       "avg_char_comparisons": 10095
     },
     {
       "array_type": "random",
       "size": 1000,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1380,
+      "avg_time_us": 2337,
       "avg_char_comparisons": 14795
     },
     {
       "array_type": "random",
       "size": 1000,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 370,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 443,
       "avg_char_comparisons": 4316
     },
     {
       "array_type": "random",
       "size": 1000,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 682,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 990,
       "avg_char_comparisons": 5630
     },
     {
       "array_type": "random",
       "size": 1100,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1174,
+      "avg_time_us": 1914,
       "avg_char_comparisons": 16471
     },
     {
       "array_type": "random",
       "size": 1100,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1777,
+      "avg_time_us": 2519,
       "avg_char_comparisons": 13068
     },
     {
       "array_type": "random",
       "size": 1100,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1914,
+      "avg_time_us": 1551,
       "avg_char_comparisons": 11903
     },
     {
       "array_type": "random",
       "size": 1100,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1589,
+      "avg_time_us": 1543,
       "avg_char_comparisons": 16521
     },
     {
       "array_type": "random",
       "size": 1100,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 392,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 401,
       "avg_char_comparisons": 4784
     },
     {
       "array_type": "random",
       "size": 1100,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 706,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 718,
       "avg_char_comparisons": 6282
     },
     {
       "array_type": "random",
       "size": 1200,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1347,
+      "avg_time_us": 1483,
       "avg_char_comparisons": 17437
     },
     {
       "array_type": "random",
       "size": 1200,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1881,
+      "avg_time_us": 2931,
       "avg_char_comparisons": 14547
     },
     {
       "array_type": "random",
       "size": 1200,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1546,
+      "avg_time_us": 1698,
       "avg_char_comparisons": 12730
     },
     {
       "array_type": "random",
       "size": 1200,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1709,
+      "avg_time_us": 1785,
       "avg_char_comparisons": 18341
     },
     {
       "array_type": "random",
       "size": 1200,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 448,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 441,
       "avg_char_comparisons": 5238
     },
     {
       "array_type": "random",
       "size": 1200,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 834,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 812,
       "avg_char_comparisons": 7133
     },
     {
       "array_type": "random",
       "size": 1300,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1496,
+      "avg_time_us": 1452,
       "avg_char_comparisons": 18733
     },
     {
       "array_type": "random",
       "size": 1300,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3170,
+      "avg_time_us": 2096,
       "avg_char_comparisons": 16056
     },
     {
       "array_type": "random",
       "size": 1300,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1699,
+      "avg_time_us": 1738,
       "avg_char_comparisons": 13471
     },
     {
       "array_type": "random",
       "size": 1300,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1892,
+      "avg_time_us": 1866,
       "avg_char_comparisons": 20135
     },
     {
       "array_type": "random",
       "size": 1300,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 510,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 565,
       "avg_char_comparisons": 5686
     },
     {
       "array_type": "random",
       "size": 1300,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 958,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 978,
       "avg_char_comparisons": 7877
     },
     {
       "array_type": "random",
       "size": 1400,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1582,
+      "avg_time_us": 2072,
       "avg_char_comparisons": 20729
     },
     {
       "array_type": "random",
       "size": 1400,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2264,
+      "avg_time_us": 2323,
       "avg_char_comparisons": 17611
     },
     {
       "array_type": "random",
       "size": 1400,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1966,
+      "avg_time_us": 1927,
       "avg_char_comparisons": 15719
     },
     {
       "array_type": "random",
       "size": 1400,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2094,
+      "avg_time_us": 2105,
       "avg_char_comparisons": 22018
     },
     {
       "array_type": "random",
       "size": 1400,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 550,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 523,
       "avg_char_comparisons": 6170
     },
     {
       "array_type": "random",
       "size": 1400,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1060,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 987,
       "avg_char_comparisons": 8634
     },
     {
       "array_type": "random",
       "size": 1500,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1831,
+      "avg_time_us": 1754,
       "avg_char_comparisons": 22447
     },
     {
       "array_type": "random",
       "size": 1500,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2476,
+      "avg_time_us": 2577,
       "avg_char_comparisons": 19158
     },
     {
       "array_type": "random",
       "size": 1500,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2015,
+      "avg_time_us": 2012,
       "avg_char_comparisons": 16214
     },
     {
       "array_type": "random",
       "size": 1500,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2390,
+      "avg_time_us": 2156,
       "avg_char_comparisons": 23786
     },
     {
       "array_type": "random",
       "size": 1500,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 567,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 578,
       "avg_char_comparisons": 6660
     },
     {
       "array_type": "random",
       "size": 1500,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1173,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1105,
       "avg_char_comparisons": 9303
     },
     {
       "array_type": "random",
       "size": 1600,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1750,
+      "avg_time_us": 1767,
       "avg_char_comparisons": 25447
     },
     {
       "array_type": "random",
       "size": 1600,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2629,
+      "avg_time_us": 2667,
       "avg_char_comparisons": 20756
     },
     {
       "array_type": "random",
       "size": 1600,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2050,
+      "avg_time_us": 2079,
       "avg_char_comparisons": 16719
     },
     {
       "array_type": "random",
       "size": 1600,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2357,
+      "avg_time_us": 2432,
       "avg_char_comparisons": 25762
     },
     {
       "array_type": "random",
       "size": 1600,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
+      "algorithm": "MSD RADIX SORT (Без переключения)",
       "avg_time_us": 590,
       "avg_char_comparisons": 7152
     },
     {
       "array_type": "random",
       "size": 1600,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1263,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1340,
       "avg_char_comparisons": 10189
     },
     {
       "array_type": "random",
       "size": 1700,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1924,
+      "avg_time_us": 1932,
       "avg_char_comparisons": 27490
     },
     {
       "array_type": "random",
       "size": 1700,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2964,
+      "avg_time_us": 3075,
       "avg_char_comparisons": 22355
     },
     {
       "array_type": "random",
       "size": 1700,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2514,
+      "avg_time_us": 2452,
       "avg_char_comparisons": 19747
     },
     {
       "array_type": "random",
       "size": 1700,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2564,
+      "avg_time_us": 2509,
       "avg_char_comparisons": 27525
     },
     {
       "array_type": "random",
       "size": 1700,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 654,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 624,
       "avg_char_comparisons": 7614
     },
     {
       "array_type": "random",
       "size": 1700,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1391,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1359,
       "avg_char_comparisons": 11236
     },
     {
       "array_type": "random",
       "size": 1800,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 2047,
+      "avg_time_us": 2018,
       "avg_char_comparisons": 28658
     },
     {
       "array_type": "random",
       "size": 1800,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3108,
+      "avg_time_us": 3170,
       "avg_char_comparisons": 23869
     },
     {
       "array_type": "random",
       "size": 1800,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2722,
+      "avg_time_us": 2716,
       "avg_char_comparisons": 21327
     },
     {
       "array_type": "random",
       "size": 1800,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2736,
+      "avg_time_us": 2721,
       "avg_char_comparisons": 29217
     },
     {
       "array_type": "random",
       "size": 1800,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
+      "algorithm": "MSD RADIX SORT (Без переключения)",
       "avg_time_us": 692,
       "avg_char_comparisons": 8122
     },
     {
       "array_type": "random",
       "size": 1800,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1461,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1466,
       "avg_char_comparisons": 11860
     },
     {
       "array_type": "random",
       "size": 1900,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 2111,
+      "avg_time_us": 2226,
       "avg_char_comparisons": 30258
     },
     {
       "array_type": "random",
       "size": 1900,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3305,
+      "avg_time_us": 3271,
       "avg_char_comparisons": 25535
     },
     {
       "array_type": "random",
       "size": 1900,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2652,
+      "avg_time_us": 2858,
       "avg_char_comparisons": 20763
     },
     {
       "array_type": "random",
       "size": 1900,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2909,
+      "avg_time_us": 2969,
       "avg_char_comparisons": 31159
     },
     {
       "array_type": "random",
       "size": 1900,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 733,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 782,
       "avg_char_comparisons": 8644
     },
     {
       "array_type": "random",
       "size": 1900,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1591,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1607,
       "avg_char_comparisons": 12755
     },
     {
       "array_type": "random",
       "size": 2000,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 2446,
+      "avg_time_us": 2359,
       "avg_char_comparisons": 33181
     },
     {
       "array_type": "random",
       "size": 2000,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3543,
+      "avg_time_us": 3515,
       "avg_char_comparisons": 27182
     },
     {
       "array_type": "random",
       "size": 2000,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2942,
+      "avg_time_us": 3040,
       "avg_char_comparisons": 23048
     },
     {
       "array_type": "random",
       "size": 2000,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3067,
+      "avg_time_us": 3079,
       "avg_char_comparisons": 33112
     },
     {
       "array_type": "random",
       "size": 2000,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 789,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 799,
       "avg_char_comparisons": 9124
     },
     {
       "array_type": "random",
       "size": 2000,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2184,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2249,
       "avg_char_comparisons": 13809
     },
     {
       "array_type": "random",
       "size": 2100,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 2865,
+      "avg_time_us": 2728,
       "avg_char_comparisons": 36589
     },
     {
       "array_type": "random",
       "size": 2100,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3719,
+      "avg_time_us": 3675,
       "avg_char_comparisons": 28839
     },
     {
       "array_type": "random",
       "size": 2100,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3042,
+      "avg_time_us": 3120,
       "avg_char_comparisons": 24051
     },
     {
       "array_type": "random",
       "size": 2100,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3229,
+      "avg_time_us": 3297,
       "avg_char_comparisons": 34955
     },
     {
       "array_type": "random",
       "size": 2100,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 830,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 874,
       "avg_char_comparisons": 9620
     },
     {
       "array_type": "random",
       "size": 2100,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1793,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1775,
       "avg_char_comparisons": 14547
     },
     {
       "array_type": "random",
       "size": 2200,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 2738,
+      "avg_time_us": 2785,
       "avg_char_comparisons": 36766
     },
     {
       "array_type": "random",
       "size": 2200,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4028,
+      "avg_time_us": 3914,
       "avg_char_comparisons": 30555
     },
     {
       "array_type": "random",
       "size": 2200,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3628,
+      "avg_time_us": 3224,
       "avg_char_comparisons": 26046
     },
     {
       "array_type": "random",
       "size": 2200,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3462,
+      "avg_time_us": 3282,
       "avg_char_comparisons": 36854
     },
     {
       "array_type": "random",
       "size": 2200,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 884,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 924,
       "avg_char_comparisons": 10160
     },
     {
       "array_type": "random",
       "size": 2200,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1780,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1840,
       "avg_char_comparisons": 15165
     },
     {
       "array_type": "random",
       "size": 2300,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 2763,
+      "avg_time_us": 2785,
       "avg_char_comparisons": 38401
     },
     {
       "array_type": "random",
       "size": 2300,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4186,
+      "avg_time_us": 4195,
       "avg_char_comparisons": 32307
     },
     {
       "array_type": "random",
       "size": 2300,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3397,
+      "avg_time_us": 3354,
       "avg_char_comparisons": 26187
     },
     {
       "array_type": "random",
       "size": 2300,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3581,
+      "avg_time_us": 3577,
       "avg_char_comparisons": 38864
     },
     {
       "array_type": "random",
       "size": 2300,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 933,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 964,
       "avg_char_comparisons": 10698
     },
     {
       "array_type": "random",
       "size": 2300,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2014,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2035,
       "avg_char_comparisons": 16169
     },
     {
       "array_type": "random",
       "size": 2400,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3294,
+      "avg_time_us": 3272,
       "avg_char_comparisons": 44469
     },
     {
       "array_type": "random",
       "size": 2400,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4310,
+      "avg_time_us": 4297,
       "avg_char_comparisons": 33989
     },
     {
       "array_type": "random",
       "size": 2400,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3609,
+      "avg_time_us": 3661,
       "avg_char_comparisons": 28752
     },
     {
       "array_type": "random",
       "size": 2400,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3861,
+      "avg_time_us": 3626,
       "avg_char_comparisons": 40680
     },
     {
       "array_type": "random",
       "size": 2400,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 991,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1025,
       "avg_char_comparisons": 11236
     },
     {
       "array_type": "random",
       "size": 2400,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2034,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2070,
       "avg_char_comparisons": 17188
     },
     {
       "array_type": "random",
       "size": 2500,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3110,
+      "avg_time_us": 3162,
       "avg_char_comparisons": 42764
     },
     {
       "array_type": "random",
       "size": 2500,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4613,
+      "avg_time_us": 4811,
       "avg_char_comparisons": 35693
     },
     {
       "array_type": "random",
       "size": 2500,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3565,
+      "avg_time_us": 3590,
       "avg_char_comparisons": 28654
     },
     {
       "array_type": "random",
       "size": 2500,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3748,
+      "avg_time_us": 3808,
       "avg_char_comparisons": 42608
     },
     {
       "array_type": "random",
       "size": 2500,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1025,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1093,
       "avg_char_comparisons": 11782
     },
     {
       "array_type": "random",
       "size": 2500,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2121,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2124,
       "avg_char_comparisons": 17945
     },
     {
       "array_type": "random",
       "size": 2600,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3339,
+      "avg_time_us": 3463,
       "avg_char_comparisons": 46686
     },
     {
       "array_type": "random",
       "size": 2600,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4698,
+      "avg_time_us": 4656,
       "avg_char_comparisons": 37465
     },
     {
       "array_type": "random",
       "size": 2600,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3657,
+      "avg_time_us": 3638,
       "avg_char_comparisons": 29023
     },
     {
       "array_type": "random",
       "size": 2600,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4062,
+      "avg_time_us": 4057,
       "avg_char_comparisons": 44614
     },
     {
       "array_type": "random",
       "size": 2600,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1188,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1111,
       "avg_char_comparisons": 12302
     },
     {
       "array_type": "random",
       "size": 2600,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2289,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2189,
       "avg_char_comparisons": 18788
     },
     {
       "array_type": "random",
       "size": 2700,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3654,
+      "avg_time_us": 3827,
       "avg_char_comparisons": 48179
     },
     {
       "array_type": "random",
       "size": 2700,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4848,
+      "avg_time_us": 4941,
       "avg_char_comparisons": 39230
     },
     {
       "array_type": "random",
       "size": 2700,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4120,
+      "avg_time_us": 4291,
       "avg_char_comparisons": 32743
     },
     {
       "array_type": "random",
       "size": 2700,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4195,
+      "avg_time_us": 4213,
       "avg_char_comparisons": 46511
     },
     {
       "array_type": "random",
       "size": 2700,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1200,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1183,
       "avg_char_comparisons": 12848
     },
     {
       "array_type": "random",
       "size": 2700,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2388,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2318,
       "avg_char_comparisons": 19502
     },
     {
       "array_type": "random",
       "size": 2800,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3618,
+      "avg_time_us": 3634,
       "avg_char_comparisons": 49585
     },
     {
       "array_type": "random",
       "size": 2800,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 5166,
+      "avg_time_us": 5287,
       "avg_char_comparisons": 40982
     },
     {
       "array_type": "random",
       "size": 2800,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4395,
+      "avg_time_us": 4580,
       "avg_char_comparisons": 35534
     },
     {
       "array_type": "random",
       "size": 2800,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4303,
+      "avg_time_us": 4330,
       "avg_char_comparisons": 48474
     },
     {
       "array_type": "random",
       "size": 2800,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1166,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1228,
       "avg_char_comparisons": 13370
     },
     {
       "array_type": "random",
       "size": 2800,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2484,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2424,
       "avg_char_comparisons": 20495
     },
     {
       "array_type": "random",
       "size": 2900,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3659,
+      "avg_time_us": 3726,
       "avg_char_comparisons": 52025
     },
     {
       "array_type": "random",
       "size": 2900,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 5356,
+      "avg_time_us": 5293,
       "avg_char_comparisons": 42748
     },
     {
       "array_type": "random",
       "size": 2900,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4814,
+      "avg_time_us": 4815,
       "avg_char_comparisons": 38601
     },
     {
       "array_type": "random",
       "size": 2900,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4529,
+      "avg_time_us": 4643,
       "avg_char_comparisons": 50373
     },
     {
       "array_type": "random",
       "size": 2900,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1245,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1229,
       "avg_char_comparisons": 13902
     },
     {
       "array_type": "random",
       "size": 2900,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2650,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2490,
       "avg_char_comparisons": 21525
     },
     {
       "array_type": "random",
       "size": 3000,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3685,
+      "avg_time_us": 3585,
       "avg_char_comparisons": 52093
     },
     {
       "array_type": "random",
       "size": 3000,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 5564,
+      "avg_time_us": 5541,
       "avg_char_comparisons": 44487
     },
     {
       "array_type": "random",
       "size": 3000,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4474,
+      "avg_time_us": 4457,
       "avg_char_comparisons": 35587
     },
     {
       "array_type": "random",
       "size": 3000,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4660,
+      "avg_time_us": 4746,
       "avg_char_comparisons": 52250
     },
     {
       "array_type": "random",
       "size": 3000,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1261,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1334,
       "avg_char_comparisons": 14448
     },
     {
       "array_type": "random",
       "size": 3000,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2698,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2660,
       "avg_char_comparisons": 22404
     },
     {
       "array_type": "reverse",
       "size": 100,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 338,
+      "avg_time_us": 341,
       "avg_char_comparisons": 6607
     },
     {
       "array_type": "reverse",
       "size": 100,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 104,
+      "avg_time_us": 106,
       "avg_char_comparisons": 585
     },
     {
       "array_type": "reverse",
       "size": 100,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 122,
+      "avg_time_us": 117,
       "avg_char_comparisons": 1031
     },
     {
       "array_type": "reverse",
       "size": 100,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 95,
+      "avg_time_us": 100,
       "avg_char_comparisons": 562
     },
     {
       "array_type": "reverse",
       "size": 100,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 47,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 48,
       "avg_char_comparisons": 476
     },
     {
       "array_type": "reverse",
       "size": 100,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 152,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 148,
       "avg_char_comparisons": 1321
     },
     {
       "array_type": "reverse",
       "size": 200,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1276,
+      "avg_time_us": 1251,
       "avg_char_comparisons": 23669
     },
     {
       "array_type": "reverse",
       "size": 200,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 228,
+      "avg_time_us": 229,
       "avg_char_comparisons": 1281
     },
     {
       "array_type": "reverse",
       "size": 200,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 323,
+      "avg_time_us": 322,
       "avg_char_comparisons": 2616
     },
     {
       "array_type": "reverse",
       "size": 200,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 202,
+      "avg_time_us": 200,
       "avg_char_comparisons": 1121
     },
     {
       "array_type": "reverse",
       "size": 200,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 85,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 95,
       "avg_char_comparisons": 976
     },
     {
       "array_type": "reverse",
       "size": 200,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 358,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 349,
       "avg_char_comparisons": 2979
     },
     {
       "array_type": "reverse",
       "size": 300,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 2753,
+      "avg_time_us": 2816,
       "avg_char_comparisons": 50585
     },
     {
       "array_type": "reverse",
       "size": 300,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 374,
+      "avg_time_us": 396,
       "avg_char_comparisons": 2067
     },
     {
       "array_type": "reverse",
       "size": 300,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 476,
+      "avg_time_us": 511,
       "avg_char_comparisons": 4044
     },
     {
       "array_type": "reverse",
       "size": 300,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 326,
+      "avg_time_us": 330,
       "avg_char_comparisons": 1772
     },
     {
       "array_type": "reverse",
       "size": 300,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 132,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 133,
       "avg_char_comparisons": 1466
     },
     {
       "array_type": "reverse",
       "size": 300,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 494,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 504,
       "avg_char_comparisons": 4396
     },
     {
       "array_type": "reverse",
       "size": 400,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 5026,
+      "avg_time_us": 4820,
       "avg_char_comparisons": 87932
     },
     {
       "array_type": "reverse",
       "size": 400,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 523,
+      "avg_time_us": 528,
       "avg_char_comparisons": 2844
     },
     {
       "array_type": "reverse",
       "size": 400,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 682,
+      "avg_time_us": 638,
       "avg_char_comparisons": 5492
     },
     {
       "array_type": "reverse",
       "size": 400,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 432,
+      "avg_time_us": 503,
       "avg_char_comparisons": 2365
     },
     {
       "array_type": "reverse",
       "size": 400,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 181,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 174,
       "avg_char_comparisons": 1948
     },
     {
       "array_type": "reverse",
       "size": 400,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 702,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 724,
       "avg_char_comparisons": 6196
     },
     {
       "array_type": "reverse",
       "size": 500,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 7579,
+      "avg_time_us": 7576,
       "avg_char_comparisons": 135058
     },
     {
       "array_type": "reverse",
       "size": 500,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 674,
+      "avg_time_us": 783,
       "avg_char_comparisons": 3746
     },
     {
       "array_type": "reverse",
       "size": 500,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 952,
+      "avg_time_us": 959,
       "avg_char_comparisons": 8052
     },
     {
       "array_type": "reverse",
       "size": 500,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 546,
+      "avg_time_us": 566,
       "avg_char_comparisons": 3100
     },
     {
       "array_type": "reverse",
       "size": 500,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 222,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 208,
       "avg_char_comparisons": 2412
     },
     {
       "array_type": "reverse",
       "size": 500,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 977,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 917,
       "avg_char_comparisons": 8054
     },
     {
       "array_type": "reverse",
       "size": 600,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 10819,
+      "avg_time_us": 10661,
       "avg_char_comparisons": 191772
     },
     {
       "array_type": "reverse",
       "size": 600,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 843,
+      "avg_time_us": 816,
       "avg_char_comparisons": 4420
     },
     {
       "array_type": "reverse",
       "size": 600,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1312,
+      "avg_time_us": 1310,
       "avg_char_comparisons": 11034
     },
     {
       "array_type": "reverse",
       "size": 600,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 702,
+      "avg_time_us": 693,
       "avg_char_comparisons": 3598
     },
     {
       "array_type": "reverse",
       "size": 600,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 261,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 260,
       "avg_char_comparisons": 2894
     },
     {
       "array_type": "reverse",
       "size": 600,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1117,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1110,
       "avg_char_comparisons": 9586
     },
     {
       "array_type": "reverse",
       "size": 700,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 14493,
+      "avg_time_us": 14634,
       "avg_char_comparisons": 259166
     },
     {
       "array_type": "reverse",
       "size": 700,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1036,
+      "avg_time_us": 990,
       "avg_char_comparisons": 5184
     },
     {
       "array_type": "reverse",
       "size": 700,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1532,
+      "avg_time_us": 1552,
       "avg_char_comparisons": 13005
     },
     {
       "array_type": "reverse",
       "size": 700,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 808,
+      "avg_time_us": 826,
       "avg_char_comparisons": 4095
     },
     {
       "array_type": "reverse",
       "size": 700,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 311,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 315,
       "avg_char_comparisons": 3404
     },
     {
       "array_type": "reverse",
       "size": 700,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1334,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1341,
       "avg_char_comparisons": 11444
     },
     {
       "array_type": "reverse",
       "size": 800,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 19401,
+      "avg_time_us": 19192,
       "avg_char_comparisons": 336140
     },
     {
       "array_type": "reverse",
       "size": 800,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1164,
+      "avg_time_us": 1134,
       "avg_char_comparisons": 6124
     },
     {
       "array_type": "reverse",
       "size": 800,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1842,
+      "avg_time_us": 1844,
       "avg_char_comparisons": 15569
     },
     {
@@ -1585,834 +1585,834 @@
     {
       "array_type": "reverse",
       "size": 800,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 381,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 348,
       "avg_char_comparisons": 3906
     },
     {
       "array_type": "reverse",
       "size": 800,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1500,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1511,
       "avg_char_comparisons": 12947
     },
     {
       "array_type": "reverse",
       "size": 900,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 24204,
+      "avg_time_us": 23982,
       "avg_char_comparisons": 423509
     },
     {
       "array_type": "reverse",
       "size": 900,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1312,
+      "avg_time_us": 1306,
       "avg_char_comparisons": 7075
     },
     {
       "array_type": "reverse",
       "size": 900,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2215,
+      "avg_time_us": 2154,
       "avg_char_comparisons": 18206
     },
     {
       "array_type": "reverse",
       "size": 900,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1059,
+      "avg_time_us": 1056,
       "avg_char_comparisons": 5535
     },
     {
       "array_type": "reverse",
       "size": 900,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 400,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 385,
       "avg_char_comparisons": 4386
     },
     {
       "array_type": "reverse",
       "size": 900,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1754,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1743,
       "avg_char_comparisons": 14890
     },
     {
       "array_type": "reverse",
       "size": 1000,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 29953,
+      "avg_time_us": 29562,
       "avg_char_comparisons": 520485
     },
     {
       "array_type": "reverse",
       "size": 1000,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1493,
+      "avg_time_us": 1546,
       "avg_char_comparisons": 8005
     },
     {
       "array_type": "reverse",
       "size": 1000,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2576,
+      "avg_time_us": 2565,
       "avg_char_comparisons": 21818
     },
     {
       "array_type": "reverse",
       "size": 1000,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1226,
+      "avg_time_us": 1203,
       "avg_char_comparisons": 6235
     },
     {
       "array_type": "reverse",
       "size": 1000,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 465,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 433,
       "avg_char_comparisons": 4852
     },
     {
       "array_type": "reverse",
       "size": 1000,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1911,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1926,
       "avg_char_comparisons": 16589
     },
     {
       "array_type": "reverse",
       "size": 1100,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 35921,
+      "avg_time_us": 35952,
       "avg_char_comparisons": 627361
     },
     {
       "array_type": "reverse",
       "size": 1100,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1684,
+      "avg_time_us": 1674,
       "avg_char_comparisons": 8775
     },
     {
       "array_type": "reverse",
       "size": 1100,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3296,
+      "avg_time_us": 3126,
       "avg_char_comparisons": 25912
     },
     {
       "array_type": "reverse",
       "size": 1100,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1410,
+      "avg_time_us": 1313,
       "avg_char_comparisons": 6790
     },
     {
       "array_type": "reverse",
       "size": 1100,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 477,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 467,
       "avg_char_comparisons": 5336
     },
     {
       "array_type": "reverse",
       "size": 1100,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2104,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2138,
       "avg_char_comparisons": 18070
     },
     {
       "array_type": "reverse",
       "size": 1200,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 42771,
+      "avg_time_us": 42524,
       "avg_char_comparisons": 744139
     },
     {
       "array_type": "reverse",
       "size": 1200,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1826,
+      "avg_time_us": 1859,
       "avg_char_comparisons": 9470
     },
     {
       "array_type": "reverse",
       "size": 1200,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3503,
+      "avg_time_us": 3565,
       "avg_char_comparisons": 29376
     },
     {
       "array_type": "reverse",
       "size": 1200,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1500,
+      "avg_time_us": 1520,
       "avg_char_comparisons": 7249
     },
     {
       "array_type": "reverse",
       "size": 1200,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 508,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 502,
       "avg_char_comparisons": 5812
     },
     {
       "array_type": "reverse",
       "size": 1200,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2295,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2263,
       "avg_char_comparisons": 19685
     },
     {
       "array_type": "reverse",
       "size": 1300,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 49883,
+      "avg_time_us": 50000,
       "avg_char_comparisons": 871646
     },
     {
       "array_type": "reverse",
       "size": 1300,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2045,
+      "avg_time_us": 1975,
       "avg_char_comparisons": 10396
     },
     {
       "array_type": "reverse",
       "size": 1300,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4140,
+      "avg_time_us": 4062,
       "avg_char_comparisons": 33893
     },
     {
       "array_type": "reverse",
       "size": 1300,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1708,
+      "avg_time_us": 1588,
       "avg_char_comparisons": 8000
     },
     {
       "array_type": "reverse",
       "size": 1300,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 562,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 560,
       "avg_char_comparisons": 6310
     },
     {
       "array_type": "reverse",
       "size": 1300,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2521,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2539,
       "avg_char_comparisons": 21610
     },
     {
       "array_type": "reverse",
       "size": 1400,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 57951,
+      "avg_time_us": 58174,
       "avg_char_comparisons": 1008256
     },
     {
       "array_type": "reverse",
       "size": 1400,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2256,
+      "avg_time_us": 2184,
       "avg_char_comparisons": 11105
     },
     {
       "array_type": "reverse",
       "size": 1400,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4579,
+      "avg_time_us": 4555,
       "avg_char_comparisons": 37976
     },
     {
       "array_type": "reverse",
       "size": 1400,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1757,
+      "avg_time_us": 1902,
       "avg_char_comparisons": 8355
     },
     {
       "array_type": "reverse",
       "size": 1400,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 613,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 615,
       "avg_char_comparisons": 6776
     },
     {
       "array_type": "reverse",
       "size": 1400,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2695,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2704,
       "avg_char_comparisons": 23040
     },
     {
       "array_type": "reverse",
       "size": 1500,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 66778,
+      "avg_time_us": 66659,
       "avg_char_comparisons": 1155467
     },
     {
       "array_type": "reverse",
       "size": 1500,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2369,
+      "avg_time_us": 2512,
       "avg_char_comparisons": 12029
     },
     {
       "array_type": "reverse",
       "size": 1500,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4999,
+      "avg_time_us": 5045,
       "avg_char_comparisons": 41976
     },
     {
       "array_type": "reverse",
       "size": 1500,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1905,
+      "avg_time_us": 1896,
       "avg_char_comparisons": 8984
     },
     {
       "array_type": "reverse",
       "size": 1500,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 618,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 630,
       "avg_char_comparisons": 7250
     },
     {
       "array_type": "reverse",
       "size": 1500,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2929,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2882,
       "avg_char_comparisons": 24808
     },
     {
       "array_type": "reverse",
       "size": 1600,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 75661,
+      "avg_time_us": 76353,
       "avg_char_comparisons": 1312116
     },
     {
       "array_type": "reverse",
       "size": 1600,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2546,
+      "avg_time_us": 2515,
       "avg_char_comparisons": 12980
     },
     {
       "array_type": "reverse",
       "size": 1600,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 5800,
+      "avg_time_us": 5796,
       "avg_char_comparisons": 48263
     },
     {
       "array_type": "reverse",
       "size": 1600,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2004,
+      "avg_time_us": 2040,
       "avg_char_comparisons": 9724
     },
     {
       "array_type": "reverse",
       "size": 1600,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 693,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 676,
       "avg_char_comparisons": 7734
     },
     {
       "array_type": "reverse",
       "size": 1600,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3075,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3161,
       "avg_char_comparisons": 26268
     },
     {
       "array_type": "reverse",
       "size": 1700,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 85914,
+      "avg_time_us": 84991,
       "avg_char_comparisons": 1479072
     },
     {
       "array_type": "reverse",
       "size": 1700,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2703,
+      "avg_time_us": 2853,
       "avg_char_comparisons": 13909
     },
     {
       "array_type": "reverse",
       "size": 1700,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 6399,
+      "avg_time_us": 6299,
       "avg_char_comparisons": 53508
     },
     {
       "array_type": "reverse",
       "size": 1700,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2165,
+      "avg_time_us": 2143,
       "avg_char_comparisons": 10500
     },
     {
       "array_type": "reverse",
       "size": 1700,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 711,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 720,
       "avg_char_comparisons": 8214
     },
     {
       "array_type": "reverse",
       "size": 1700,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3236,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3221,
       "avg_char_comparisons": 27818
     },
     {
       "array_type": "reverse",
       "size": 1800,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 96101,
+      "avg_time_us": 95039,
       "avg_char_comparisons": 1655979
     },
     {
       "array_type": "reverse",
       "size": 1800,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2901,
+      "avg_time_us": 2909,
       "avg_char_comparisons": 14970
     },
     {
       "array_type": "reverse",
       "size": 1800,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 6887,
+      "avg_time_us": 6930,
       "avg_char_comparisons": 57292
     },
     {
       "array_type": "reverse",
       "size": 1800,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2348,
+      "avg_time_us": 2340,
       "avg_char_comparisons": 11167
     },
     {
       "array_type": "reverse",
       "size": 1800,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 780,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 786,
       "avg_char_comparisons": 8698
     },
     {
       "array_type": "reverse",
       "size": 1800,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3513,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3506,
       "avg_char_comparisons": 29485
     },
     {
       "array_type": "reverse",
       "size": 1900,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 107150,
+      "avg_time_us": 106841,
       "avg_char_comparisons": 1843214
     },
     {
       "array_type": "reverse",
       "size": 1900,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3009,
+      "avg_time_us": 3076,
       "avg_char_comparisons": 15927
     },
     {
       "array_type": "reverse",
       "size": 1900,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 7376,
+      "avg_time_us": 7258,
       "avg_char_comparisons": 62269
     },
     {
       "array_type": "reverse",
       "size": 1900,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2457,
+      "avg_time_us": 2446,
       "avg_char_comparisons": 11874
     },
     {
       "array_type": "reverse",
       "size": 1900,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 799,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 800,
       "avg_char_comparisons": 9182
     },
     {
       "array_type": "reverse",
       "size": 1900,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3675,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3706,
       "avg_char_comparisons": 31323
     },
     {
       "array_type": "reverse",
       "size": 2000,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 118198,
+      "avg_time_us": 117582,
       "avg_char_comparisons": 2040320
     },
     {
       "array_type": "reverse",
       "size": 2000,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3240,
+      "avg_time_us": 3233,
       "avg_char_comparisons": 16980
     },
     {
       "array_type": "reverse",
       "size": 2000,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 8359,
+      "avg_time_us": 8284,
       "avg_char_comparisons": 68871
     },
     {
       "array_type": "reverse",
       "size": 2000,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2614,
+      "avg_time_us": 2553,
       "avg_char_comparisons": 12540
     },
     {
       "array_type": "reverse",
       "size": 2000,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 874,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 841,
       "avg_char_comparisons": 9680
     },
     {
       "array_type": "reverse",
       "size": 2000,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3930,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3876,
       "avg_char_comparisons": 33009
     },
     {
       "array_type": "reverse",
       "size": 2100,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 130219,
+      "avg_time_us": 129295,
       "avg_char_comparisons": 2247145
     },
     {
       "array_type": "reverse",
       "size": 2100,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3452,
+      "avg_time_us": 3387,
       "avg_char_comparisons": 17833
     },
     {
       "array_type": "reverse",
       "size": 2100,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 8912,
+      "avg_time_us": 8931,
       "avg_char_comparisons": 73672
     },
     {
       "array_type": "reverse",
       "size": 2100,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2739,
+      "avg_time_us": 2747,
       "avg_char_comparisons": 13055
     },
     {
       "array_type": "reverse",
       "size": 2100,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 938,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 881,
       "avg_char_comparisons": 10172
     },
     {
       "array_type": "reverse",
       "size": 2100,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 4111,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3986,
       "avg_char_comparisons": 34560
     },
     {
       "array_type": "reverse",
       "size": 2200,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 143139,
+      "avg_time_us": 141873,
       "avg_char_comparisons": 2464535
     },
     {
       "array_type": "reverse",
       "size": 2200,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3611,
+      "avg_time_us": 3715,
       "avg_char_comparisons": 18674
     },
     {
       "array_type": "reverse",
       "size": 2200,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 9470,
+      "avg_time_us": 9357,
       "avg_char_comparisons": 78660
     },
     {
       "array_type": "reverse",
       "size": 2200,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2907,
+      "avg_time_us": 2865,
       "avg_char_comparisons": 13785
     },
     {
       "array_type": "reverse",
       "size": 2200,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 990,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 967,
       "avg_char_comparisons": 10674
     },
     {
       "array_type": "reverse",
       "size": 2200,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 4199,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 4188,
       "avg_char_comparisons": 36285
     },
     {
       "array_type": "reverse",
       "size": 2300,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 154966,
+      "avg_time_us": 153658,
       "avg_char_comparisons": 2691596
     },
     {
       "array_type": "reverse",
       "size": 2300,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3769,
+      "avg_time_us": 3829,
       "avg_char_comparisons": 19458
     },
     {
       "array_type": "reverse",
       "size": 2300,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 10569,
+      "avg_time_us": 10452,
       "avg_char_comparisons": 87098
     },
     {
       "array_type": "reverse",
       "size": 2300,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2954,
+      "avg_time_us": 3017,
       "avg_char_comparisons": 14251
     },
     {
       "array_type": "reverse",
       "size": 2300,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1005,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 992,
       "avg_char_comparisons": 11168
     },
     {
       "array_type": "reverse",
       "size": 2300,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 4438,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 4404,
       "avg_char_comparisons": 37787
     },
     {
       "array_type": "reverse",
       "size": 2400,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 168807,
+      "avg_time_us": 168573,
       "avg_char_comparisons": 2928509
     },
     {
       "array_type": "reverse",
       "size": 2400,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4005,
+      "avg_time_us": 3943,
       "avg_char_comparisons": 20207
     },
     {
       "array_type": "reverse",
       "size": 2400,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 11247,
+      "avg_time_us": 11139,
       "avg_char_comparisons": 92477
     },
     {
       "array_type": "reverse",
       "size": 2400,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3239,
+      "avg_time_us": 3406,
       "avg_char_comparisons": 14697
     },
     {
       "array_type": "reverse",
       "size": 2400,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1069,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1055,
       "avg_char_comparisons": 11652
     },
     {
       "array_type": "reverse",
       "size": 2400,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 4643,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 4644,
       "avg_char_comparisons": 39413
     },
     {
       "array_type": "reverse",
       "size": 2500,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 185146,
+      "avg_time_us": 183841,
       "avg_char_comparisons": 3175179
     },
     {
       "array_type": "reverse",
       "size": 2500,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4217,
+      "avg_time_us": 4318,
       "avg_char_comparisons": 21091
     },
     {
       "array_type": "reverse",
       "size": 2500,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 12202,
+      "avg_time_us": 12139,
       "avg_char_comparisons": 100999
     },
     {
       "array_type": "reverse",
       "size": 2500,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3392,
+      "avg_time_us": 3280,
       "avg_char_comparisons": 15314
     },
     {
       "array_type": "reverse",
       "size": 2500,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1104,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1095,
       "avg_char_comparisons": 12136
     },
     {
       "array_type": "reverse",
       "size": 2500,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 4844,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 5131,
       "avg_char_comparisons": 40823
     },
     {
       "array_type": "reverse",
       "size": 2600,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 199581,
+      "avg_time_us": 197793,
       "avg_char_comparisons": 3432098
     },
     {
       "array_type": "reverse",
       "size": 2600,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4414,
+      "avg_time_us": 4299,
       "avg_char_comparisons": 22047
     },
     {
       "array_type": "reverse",
       "size": 2600,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 13376,
+      "avg_time_us": 13290,
       "avg_char_comparisons": 109334
     },
     {
       "array_type": "reverse",
       "size": 2600,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3451,
+      "avg_time_us": 3456,
       "avg_char_comparisons": 16073
     },
     {
       "array_type": "reverse",
       "size": 2600,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1146,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1157,
       "avg_char_comparisons": 12630
     },
     {
       "array_type": "reverse",
       "size": 2600,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 5005,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 4934,
       "avg_char_comparisons": 42328
     },
     {
       "array_type": "reverse",
       "size": 2700,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 216749,
+      "avg_time_us": 216051,
       "avg_char_comparisons": 3698958
     },
     {
       "array_type": "reverse",
       "size": 2700,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4517,
+      "avg_time_us": 4642,
       "avg_char_comparisons": 22609
     },
     {
       "array_type": "reverse",
       "size": 2700,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 13911,
+      "avg_time_us": 13755,
       "avg_char_comparisons": 115879
     },
     {
       "array_type": "reverse",
       "size": 2700,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3612,
+      "avg_time_us": 3633,
       "avg_char_comparisons": 16102
     },
     {
       "array_type": "reverse",
       "size": 2700,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1165,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1195,
       "avg_char_comparisons": 13122
     },
     {
       "array_type": "reverse",
       "size": 2700,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 5290,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 5255,
       "avg_char_comparisons": 43905
     },
     {
       "array_type": "reverse",
       "size": 2800,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 231154,
+      "avg_time_us": 230867,
       "avg_char_comparisons": 3975922
     },
     {
       "array_type": "reverse",
       "size": 2800,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4895,
+      "avg_time_us": 4738,
       "avg_char_comparisons": 23652
     },
     {
       "array_type": "reverse",
       "size": 2800,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 14907,
+      "avg_time_us": 15124,
       "avg_char_comparisons": 124086
     },
     {
@@ -2425,120 +2425,120 @@
     {
       "array_type": "reverse",
       "size": 2800,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1222,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1260,
       "avg_char_comparisons": 13594
     },
     {
       "array_type": "reverse",
       "size": 2800,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 5268,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 5412,
       "avg_char_comparisons": 45606
     },
     {
       "array_type": "reverse",
       "size": 2900,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 248072,
+      "avg_time_us": 246921,
       "avg_char_comparisons": 4262961
     },
     {
       "array_type": "reverse",
       "size": 2900,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 5046,
+      "avg_time_us": 4935,
       "avg_char_comparisons": 24747
     },
     {
       "array_type": "reverse",
       "size": 2900,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 17576,
+      "avg_time_us": 17596,
       "avg_char_comparisons": 131291
     },
     {
       "array_type": "reverse",
       "size": 2900,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4070,
+      "avg_time_us": 4014,
       "avg_char_comparisons": 17762
     },
     {
       "array_type": "reverse",
       "size": 2900,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1296,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1299,
       "avg_char_comparisons": 14102
     },
     {
       "array_type": "reverse",
       "size": 2900,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 5531,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 5669,
       "avg_char_comparisons": 47091
     },
     {
       "array_type": "reverse",
       "size": 3000,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 265224,
+      "avg_time_us": 263186,
       "avg_char_comparisons": 4560171
     },
     {
       "array_type": "reverse",
       "size": 3000,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 5272,
+      "avg_time_us": 5189,
       "avg_char_comparisons": 25686
     },
     {
       "array_type": "reverse",
       "size": 3000,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 16735,
+      "avg_time_us": 17173,
       "avg_char_comparisons": 138377
     },
     {
       "array_type": "reverse",
       "size": 3000,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3965,
+      "avg_time_us": 4125,
       "avg_char_comparisons": 18267
     },
     {
       "array_type": "reverse",
       "size": 3000,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1338,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1302,
       "avg_char_comparisons": 14602
     },
     {
       "array_type": "reverse",
       "size": 3000,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 5784,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 5791,
       "avg_char_comparisons": 48817
     },
     {
       "array_type": "almost_sorted",
       "size": 100,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 432,
+      "avg_time_us": 431,
       "avg_char_comparisons": 5444
     },
     {
       "array_type": "almost_sorted",
       "size": 100,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 103,
+      "avg_time_us": 106,
       "avg_char_comparisons": 778
     },
     {
       "array_type": "almost_sorted",
       "size": 100,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 100,
+      "avg_time_us": 101,
       "avg_char_comparisons": 868
     },
     {
@@ -2551,113 +2551,113 @@
     {
       "array_type": "almost_sorted",
       "size": 100,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 39,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 40,
       "avg_char_comparisons": 450
     },
     {
       "array_type": "almost_sorted",
       "size": 100,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 111,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 102,
       "avg_char_comparisons": 913
     },
     {
       "array_type": "almost_sorted",
       "size": 200,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1689,
+      "avg_time_us": 1670,
       "avg_char_comparisons": 18973
     },
     {
       "array_type": "almost_sorted",
       "size": 200,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 256,
+      "avg_time_us": 243,
       "avg_char_comparisons": 1761
     },
     {
       "array_type": "almost_sorted",
       "size": 200,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 220,
+      "avg_time_us": 233,
       "avg_char_comparisons": 1930
     },
     {
       "array_type": "almost_sorted",
       "size": 200,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 209,
+      "avg_time_us": 203,
       "avg_char_comparisons": 1317
     },
     {
       "array_type": "almost_sorted",
       "size": 200,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
+      "algorithm": "MSD RADIX SORT (Без переключения)",
       "avg_time_us": 86,
       "avg_char_comparisons": 918
     },
     {
       "array_type": "almost_sorted",
       "size": 200,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 234,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 200,
       "avg_char_comparisons": 1797
     },
     {
       "array_type": "almost_sorted",
       "size": 300,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 4005,
+      "avg_time_us": 3885,
       "avg_char_comparisons": 42028
     },
     {
       "array_type": "almost_sorted",
       "size": 300,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 390,
+      "avg_time_us": 398,
       "avg_char_comparisons": 2811
     },
     {
       "array_type": "almost_sorted",
       "size": 300,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 399,
+      "avg_time_us": 397,
       "avg_char_comparisons": 3286
     },
     {
       "array_type": "almost_sorted",
       "size": 300,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 347,
+      "avg_time_us": 325,
       "avg_char_comparisons": 1939
     },
     {
       "array_type": "almost_sorted",
       "size": 300,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 127,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 124,
       "avg_char_comparisons": 1384
     },
     {
       "array_type": "almost_sorted",
       "size": 300,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 330,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 316,
       "avg_char_comparisons": 2801
     },
     {
       "array_type": "almost_sorted",
       "size": 400,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 6707,
+      "avg_time_us": 6631,
       "avg_char_comparisons": 71697
     },
     {
       "array_type": "almost_sorted",
       "size": 400,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 546,
+      "avg_time_us": 530,
       "avg_char_comparisons": 3950
     },
     {
@@ -2671,1238 +2671,1238 @@
       "array_type": "almost_sorted",
       "size": 400,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 508,
+      "avg_time_us": 511,
       "avg_char_comparisons": 2678
     },
     {
       "array_type": "almost_sorted",
       "size": 400,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 165,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 168,
       "avg_char_comparisons": 1858
     },
     {
       "array_type": "almost_sorted",
       "size": 400,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 438,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 427,
       "avg_char_comparisons": 3735
     },
     {
       "array_type": "almost_sorted",
       "size": 500,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 7181,
+      "avg_time_us": 7228,
       "avg_char_comparisons": 77813
     },
     {
       "array_type": "almost_sorted",
       "size": 500,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 683,
+      "avg_time_us": 680,
       "avg_char_comparisons": 5090
     },
     {
       "array_type": "almost_sorted",
       "size": 500,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 817,
+      "avg_time_us": 775,
       "avg_char_comparisons": 6470
     },
     {
       "array_type": "almost_sorted",
       "size": 500,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 572,
+      "avg_time_us": 575,
       "avg_char_comparisons": 3361
     },
     {
       "array_type": "almost_sorted",
       "size": 500,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 212,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 207,
       "avg_char_comparisons": 2362
     },
     {
       "array_type": "almost_sorted",
       "size": 500,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 558,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 546,
       "avg_char_comparisons": 4777
     },
     {
       "array_type": "almost_sorted",
       "size": 600,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 12120,
+      "avg_time_us": 12117,
       "avg_char_comparisons": 127319
     },
     {
       "array_type": "almost_sorted",
       "size": 600,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 843,
+      "avg_time_us": 852,
       "avg_char_comparisons": 6364
     },
     {
       "array_type": "almost_sorted",
       "size": 600,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1007,
+      "avg_time_us": 1035,
       "avg_char_comparisons": 8198
     },
     {
       "array_type": "almost_sorted",
       "size": 600,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 704,
+      "avg_time_us": 705,
       "avg_char_comparisons": 4098
     },
     {
       "array_type": "almost_sorted",
       "size": 600,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 260,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 252,
       "avg_char_comparisons": 2846
     },
     {
       "array_type": "almost_sorted",
       "size": 600,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 683,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 692,
       "avg_char_comparisons": 5907
     },
     {
       "array_type": "almost_sorted",
       "size": 700,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 10352,
+      "avg_time_us": 9941,
       "avg_char_comparisons": 108731
     },
     {
       "array_type": "almost_sorted",
       "size": 700,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1069,
+      "avg_time_us": 1020,
       "avg_char_comparisons": 7769
     },
     {
       "array_type": "almost_sorted",
       "size": 700,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1049,
+      "avg_time_us": 1060,
       "avg_char_comparisons": 8846
     },
     {
       "array_type": "almost_sorted",
       "size": 700,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 828,
+      "avg_time_us": 814,
       "avg_char_comparisons": 5132
     },
     {
       "array_type": "almost_sorted",
       "size": 700,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 333,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 290,
       "avg_char_comparisons": 3326
     },
     {
       "array_type": "almost_sorted",
       "size": 700,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 798,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 794,
       "avg_char_comparisons": 6872
     },
     {
       "array_type": "almost_sorted",
       "size": 800,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 6174,
+      "avg_time_us": 6137,
       "avg_char_comparisons": 96309
     },
     {
       "array_type": "almost_sorted",
       "size": 800,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1158,
+      "avg_time_us": 1159,
       "avg_char_comparisons": 9094
     },
     {
       "array_type": "almost_sorted",
       "size": 800,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1491,
+      "avg_time_us": 1502,
       "avg_char_comparisons": 12420
     },
     {
       "array_type": "almost_sorted",
       "size": 800,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 968,
+      "avg_time_us": 961,
       "avg_char_comparisons": 6160
     },
     {
       "array_type": "almost_sorted",
       "size": 800,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 333,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 326,
       "avg_char_comparisons": 3804
     },
     {
       "array_type": "almost_sorted",
       "size": 800,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 888,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 853,
       "avg_char_comparisons": 7564
     },
     {
       "array_type": "almost_sorted",
       "size": 900,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 9059,
+      "avg_time_us": 8951,
       "avg_char_comparisons": 125471
     },
     {
       "array_type": "almost_sorted",
       "size": 900,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1330,
+      "avg_time_us": 1352,
       "avg_char_comparisons": 10365
     },
     {
       "array_type": "almost_sorted",
       "size": 900,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1506,
+      "avg_time_us": 1464,
       "avg_char_comparisons": 12291
     },
     {
       "array_type": "almost_sorted",
       "size": 900,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1178,
+      "avg_time_us": 1181,
       "avg_char_comparisons": 7052
     },
     {
       "array_type": "almost_sorted",
       "size": 900,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 382,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 376,
       "avg_char_comparisons": 4292
     },
     {
       "array_type": "almost_sorted",
       "size": 900,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 968,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 969,
       "avg_char_comparisons": 8435
     },
     {
       "array_type": "almost_sorted",
       "size": 1000,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 2386,
+      "avg_time_us": 2464,
       "avg_char_comparisons": 67366
     },
     {
       "array_type": "almost_sorted",
       "size": 1000,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1482,
+      "avg_time_us": 1468,
       "avg_char_comparisons": 11442
     },
     {
       "array_type": "almost_sorted",
       "size": 1000,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1800,
+      "avg_time_us": 1738,
       "avg_char_comparisons": 14746
     },
     {
       "array_type": "almost_sorted",
       "size": 1000,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1222,
+      "avg_time_us": 1226,
       "avg_char_comparisons": 7629
     },
     {
       "array_type": "almost_sorted",
       "size": 1000,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 414,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 436,
       "avg_char_comparisons": 4778
     },
     {
       "array_type": "almost_sorted",
       "size": 1000,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1077,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1054,
       "avg_char_comparisons": 9211
     },
     {
       "array_type": "almost_sorted",
       "size": 1100,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 2182,
+      "avg_time_us": 2313,
       "avg_char_comparisons": 60124
     },
     {
       "array_type": "almost_sorted",
       "size": 1100,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1711,
+      "avg_time_us": 1676,
       "avg_char_comparisons": 12855
     },
     {
       "array_type": "almost_sorted",
       "size": 1100,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1742,
+      "avg_time_us": 1744,
       "avg_char_comparisons": 14571
     },
     {
       "array_type": "almost_sorted",
       "size": 1100,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1362,
+      "avg_time_us": 1386,
       "avg_char_comparisons": 8493
     },
     {
       "array_type": "almost_sorted",
       "size": 1100,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 490,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 488,
       "avg_char_comparisons": 5254
     },
     {
       "array_type": "almost_sorted",
       "size": 1100,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1177,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1210,
       "avg_char_comparisons": 10157
     },
     {
       "array_type": "almost_sorted",
       "size": 1200,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 8952,
+      "avg_time_us": 8980,
       "avg_char_comparisons": 134731
     },
     {
       "array_type": "almost_sorted",
       "size": 1200,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1888,
+      "avg_time_us": 1865,
       "avg_char_comparisons": 14584
     },
     {
       "array_type": "almost_sorted",
       "size": 1200,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1706,
+      "avg_time_us": 1713,
       "avg_char_comparisons": 14333
     },
     {
       "array_type": "almost_sorted",
       "size": 1200,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1499,
+      "avg_time_us": 1506,
       "avg_char_comparisons": 9591
     },
     {
       "array_type": "almost_sorted",
       "size": 1200,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 539,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 491,
       "avg_char_comparisons": 5724
     },
     {
       "array_type": "almost_sorted",
       "size": 1200,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1251,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1305,
       "avg_char_comparisons": 10860
     },
     {
       "array_type": "almost_sorted",
       "size": 1300,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 4794,
+      "avg_time_us": 4845,
       "avg_char_comparisons": 91268
     },
     {
       "array_type": "almost_sorted",
       "size": 1300,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2102,
+      "avg_time_us": 2045,
       "avg_char_comparisons": 15938
     },
     {
       "array_type": "almost_sorted",
       "size": 1300,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2524,
+      "avg_time_us": 2606,
       "avg_char_comparisons": 21129
     },
     {
       "array_type": "almost_sorted",
       "size": 1300,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1751,
+      "avg_time_us": 1655,
       "avg_char_comparisons": 10564
     },
     {
       "array_type": "almost_sorted",
       "size": 1300,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 537,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 544,
       "avg_char_comparisons": 6216
     },
     {
       "array_type": "almost_sorted",
       "size": 1300,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1358,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1348,
       "avg_char_comparisons": 11644
     },
     {
       "array_type": "almost_sorted",
       "size": 1400,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 5332,
+      "avg_time_us": 5308,
       "avg_char_comparisons": 97168
     },
     {
       "array_type": "almost_sorted",
       "size": 1400,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2241,
+      "avg_time_us": 2360,
       "avg_char_comparisons": 17330
     },
     {
       "array_type": "almost_sorted",
       "size": 1400,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3214,
+      "avg_time_us": 3097,
       "avg_char_comparisons": 25597
     },
     {
       "array_type": "almost_sorted",
       "size": 1400,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1826,
+      "avg_time_us": 1891,
       "avg_char_comparisons": 11484
     },
     {
       "array_type": "almost_sorted",
       "size": 1400,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 582,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 603,
       "avg_char_comparisons": 6708
     },
     {
       "array_type": "almost_sorted",
       "size": 1400,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1433,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1417,
       "avg_char_comparisons": 12387
     },
     {
       "array_type": "almost_sorted",
       "size": 1500,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 4541,
+      "avg_time_us": 4552,
       "avg_char_comparisons": 77512
     },
     {
       "array_type": "almost_sorted",
       "size": 1500,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2487,
+      "avg_time_us": 2464,
       "avg_char_comparisons": 19037
     },
     {
       "array_type": "almost_sorted",
       "size": 1500,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3221,
+      "avg_time_us": 3193,
       "avg_char_comparisons": 26589
     },
     {
       "array_type": "almost_sorted",
       "size": 1500,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1948,
+      "avg_time_us": 1935,
       "avg_char_comparisons": 12730
     },
     {
       "array_type": "almost_sorted",
       "size": 1500,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 672,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 624,
       "avg_char_comparisons": 7186
     },
     {
       "array_type": "almost_sorted",
       "size": 1500,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1537,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1542,
       "avg_char_comparisons": 13173
     },
     {
       "array_type": "almost_sorted",
       "size": 1600,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3898,
+      "avg_time_us": 3994,
       "avg_char_comparisons": 63739
     },
     {
       "array_type": "almost_sorted",
       "size": 1600,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2667,
+      "avg_time_us": 2620,
       "avg_char_comparisons": 20074
     },
     {
       "array_type": "almost_sorted",
       "size": 1600,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3367,
+      "avg_time_us": 3364,
       "avg_char_comparisons": 26946
     },
     {
       "array_type": "almost_sorted",
       "size": 1600,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2150,
+      "avg_time_us": 2174,
       "avg_char_comparisons": 13261
     },
     {
       "array_type": "almost_sorted",
       "size": 1600,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 659,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 683,
       "avg_char_comparisons": 7680
     },
     {
       "array_type": "almost_sorted",
       "size": 1600,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1678,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1653,
       "avg_char_comparisons": 14034
     },
     {
       "array_type": "almost_sorted",
       "size": 1700,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 4347,
+      "avg_time_us": 4334,
       "avg_char_comparisons": 68803
     },
     {
       "array_type": "almost_sorted",
       "size": 1700,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2795,
+      "avg_time_us": 2774,
       "avg_char_comparisons": 21713
     },
     {
       "array_type": "almost_sorted",
       "size": 1700,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3657,
+      "avg_time_us": 3599,
       "avg_char_comparisons": 30097
     },
     {
       "array_type": "almost_sorted",
       "size": 1700,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2262,
+      "avg_time_us": 2315,
       "avg_char_comparisons": 14440
     },
     {
       "array_type": "almost_sorted",
       "size": 1700,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 788,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 699,
       "avg_char_comparisons": 8154
     },
     {
       "array_type": "almost_sorted",
       "size": 1700,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1717,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1713,
       "avg_char_comparisons": 14640
     },
     {
       "array_type": "almost_sorted",
       "size": 1800,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3515,
+      "avg_time_us": 3631,
       "avg_char_comparisons": 75841
     },
     {
       "array_type": "almost_sorted",
       "size": 1800,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2987,
+      "avg_time_us": 2966,
       "avg_char_comparisons": 23011
     },
     {
       "array_type": "almost_sorted",
       "size": 1800,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4144,
+      "avg_time_us": 3921,
       "avg_char_comparisons": 32056
     },
     {
       "array_type": "almost_sorted",
       "size": 1800,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2488,
+      "avg_time_us": 2425,
       "avg_char_comparisons": 15439
     },
     {
       "array_type": "almost_sorted",
       "size": 1800,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 776,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 726,
       "avg_char_comparisons": 8616
     },
     {
       "array_type": "almost_sorted",
       "size": 1800,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1820,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1832,
       "avg_char_comparisons": 15780
     },
     {
       "array_type": "almost_sorted",
       "size": 1900,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 4976,
+      "avg_time_us": 5045,
       "avg_char_comparisons": 103858
     },
     {
       "array_type": "almost_sorted",
       "size": 1900,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3117,
+      "avg_time_us": 3188,
       "avg_char_comparisons": 24259
     },
     {
       "array_type": "almost_sorted",
       "size": 1900,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3670,
+      "avg_time_us": 3723,
       "avg_char_comparisons": 30870
     },
     {
       "array_type": "almost_sorted",
       "size": 1900,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2566,
+      "avg_time_us": 2518,
       "avg_char_comparisons": 16127
     },
     {
       "array_type": "almost_sorted",
       "size": 1900,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 794,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 773,
       "avg_char_comparisons": 9092
     },
     {
       "array_type": "almost_sorted",
       "size": 1900,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1959,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1982,
       "avg_char_comparisons": 16655
     },
     {
       "array_type": "almost_sorted",
       "size": 2000,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3382,
+      "avg_time_us": 3296,
       "avg_char_comparisons": 69451
     },
     {
       "array_type": "almost_sorted",
       "size": 2000,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3320,
+      "avg_time_us": 3332,
       "avg_char_comparisons": 25599
     },
     {
       "array_type": "almost_sorted",
       "size": 2000,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3829,
+      "avg_time_us": 3843,
       "avg_char_comparisons": 31774
     },
     {
       "array_type": "almost_sorted",
       "size": 2000,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2760,
+      "avg_time_us": 2745,
       "avg_char_comparisons": 17132
     },
     {
       "array_type": "almost_sorted",
       "size": 2000,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 861,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 830,
       "avg_char_comparisons": 9608
     },
     {
       "array_type": "almost_sorted",
       "size": 2000,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2107,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2014,
       "avg_char_comparisons": 17459
     },
     {
       "array_type": "almost_sorted",
       "size": 2100,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 8412,
+      "avg_time_us": 7848,
       "avg_char_comparisons": 104342
     },
     {
       "array_type": "almost_sorted",
       "size": 2100,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3580,
+      "avg_time_us": 3485,
       "avg_char_comparisons": 26991
     },
     {
       "array_type": "almost_sorted",
       "size": 2100,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3909,
+      "avg_time_us": 3991,
       "avg_char_comparisons": 32697
     },
     {
       "array_type": "almost_sorted",
       "size": 2100,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2821,
+      "avg_time_us": 2793,
       "avg_char_comparisons": 18327
     },
     {
       "array_type": "almost_sorted",
       "size": 2100,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 877,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 914,
       "avg_char_comparisons": 10112
     },
     {
       "array_type": "almost_sorted",
       "size": 2100,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2144,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2140,
       "avg_char_comparisons": 18190
     },
     {
       "array_type": "almost_sorted",
       "size": 2200,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 4630,
+      "avg_time_us": 4621,
       "avg_char_comparisons": 82282
     },
     {
       "array_type": "almost_sorted",
       "size": 2200,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3680,
+      "avg_time_us": 3651,
       "avg_char_comparisons": 28802
     },
     {
       "array_type": "almost_sorted",
       "size": 2200,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4068,
+      "avg_time_us": 3921,
       "avg_char_comparisons": 32917
     },
     {
       "array_type": "almost_sorted",
       "size": 2200,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3009,
+      "avg_time_us": 3048,
       "avg_char_comparisons": 19505
     },
     {
       "array_type": "almost_sorted",
       "size": 2200,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 950,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 949,
       "avg_char_comparisons": 10604
     },
     {
       "array_type": "almost_sorted",
       "size": 2200,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2226,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2230,
       "avg_char_comparisons": 18960
     },
     {
       "array_type": "almost_sorted",
       "size": 2300,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 5114,
+      "avg_time_us": 5078,
       "avg_char_comparisons": 88287
     },
     {
       "array_type": "almost_sorted",
       "size": 2300,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3891,
+      "avg_time_us": 3882,
       "avg_char_comparisons": 30470
     },
     {
       "array_type": "almost_sorted",
       "size": 2300,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3826,
+      "avg_time_us": 3829,
       "avg_char_comparisons": 31607
     },
     {
       "array_type": "almost_sorted",
       "size": 2300,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3211,
+      "avg_time_us": 3240,
       "avg_char_comparisons": 20477
     },
     {
       "array_type": "almost_sorted",
       "size": 2300,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1032,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1016,
       "avg_char_comparisons": 11098
     },
     {
       "array_type": "almost_sorted",
       "size": 2300,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2372,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2351,
       "avg_char_comparisons": 19767
     },
     {
       "array_type": "almost_sorted",
       "size": 2400,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 8080,
+      "avg_time_us": 8154,
       "avg_char_comparisons": 318470
     },
     {
       "array_type": "almost_sorted",
       "size": 2400,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4121,
+      "avg_time_us": 4040,
       "avg_char_comparisons": 32167
     },
     {
       "array_type": "almost_sorted",
       "size": 2400,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4626,
+      "avg_time_us": 4555,
       "avg_char_comparisons": 37992
     },
     {
       "array_type": "almost_sorted",
       "size": 2400,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3316,
+      "avg_time_us": 3298,
       "avg_char_comparisons": 21564
     },
     {
       "array_type": "almost_sorted",
       "size": 2400,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1008,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1024,
       "avg_char_comparisons": 11580
     },
     {
       "array_type": "almost_sorted",
       "size": 2400,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2444,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2474,
       "avg_char_comparisons": 20628
     },
     {
       "array_type": "almost_sorted",
       "size": 2500,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 7492,
+      "avg_time_us": 7354,
       "avg_char_comparisons": 128493
     },
     {
       "array_type": "almost_sorted",
       "size": 2500,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4389,
+      "avg_time_us": 4320,
       "avg_char_comparisons": 33755
     },
     {
       "array_type": "almost_sorted",
       "size": 2500,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4678,
+      "avg_time_us": 4639,
       "avg_char_comparisons": 38099
     },
     {
       "array_type": "almost_sorted",
       "size": 2500,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3522,
+      "avg_time_us": 3391,
       "avg_char_comparisons": 22788
     },
     {
       "array_type": "almost_sorted",
       "size": 2500,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1088,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1086,
       "avg_char_comparisons": 12092
     },
     {
       "array_type": "almost_sorted",
       "size": 2500,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2554,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2592,
       "avg_char_comparisons": 21587
     },
     {
       "array_type": "almost_sorted",
       "size": 2600,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 6444,
+      "avg_time_us": 6395,
       "avg_char_comparisons": 112307
     },
     {
       "array_type": "almost_sorted",
       "size": 2600,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4533,
+      "avg_time_us": 4588,
       "avg_char_comparisons": 35234
     },
     {
       "array_type": "almost_sorted",
       "size": 2600,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4505,
+      "avg_time_us": 4402,
       "avg_char_comparisons": 36640
     },
     {
       "array_type": "almost_sorted",
       "size": 2600,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3602,
+      "avg_time_us": 3572,
       "avg_char_comparisons": 23975
     },
     {
       "array_type": "almost_sorted",
       "size": 2600,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1129,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1092,
       "avg_char_comparisons": 12588
     },
     {
       "array_type": "almost_sorted",
       "size": 2600,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2692,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2671,
       "avg_char_comparisons": 22705
     },
     {
       "array_type": "almost_sorted",
       "size": 2700,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 13535,
+      "avg_time_us": 13394,
       "avg_char_comparisons": 170019
     },
     {
       "array_type": "almost_sorted",
       "size": 2700,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4759,
+      "avg_time_us": 4777,
       "avg_char_comparisons": 36863
     },
     {
       "array_type": "almost_sorted",
       "size": 2700,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 5239,
+      "avg_time_us": 5381,
       "avg_char_comparisons": 43113
     },
     {
       "array_type": "almost_sorted",
       "size": 2700,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3886,
+      "avg_time_us": 3853,
       "avg_char_comparisons": 25280
     },
     {
       "array_type": "almost_sorted",
       "size": 2700,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1106,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1129,
       "avg_char_comparisons": 13084
     },
     {
       "array_type": "almost_sorted",
       "size": 2700,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2715,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2807,
       "avg_char_comparisons": 23516
     },
     {
       "array_type": "almost_sorted",
       "size": 2800,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 8676,
+      "avg_time_us": 8494,
       "avg_char_comparisons": 144044
     },
     {
       "array_type": "almost_sorted",
       "size": 2800,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4908,
+      "avg_time_us": 4994,
       "avg_char_comparisons": 38286
     },
     {
       "array_type": "almost_sorted",
       "size": 2800,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4387,
+      "avg_time_us": 4331,
       "avg_char_comparisons": 36262
     },
     {
       "array_type": "almost_sorted",
       "size": 2800,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3958,
+      "avg_time_us": 3895,
       "avg_char_comparisons": 26142
     },
     {
       "array_type": "almost_sorted",
       "size": 2800,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1208,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1243,
       "avg_char_comparisons": 13608
     },
     {
       "array_type": "almost_sorted",
       "size": 2800,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2881,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2800,
       "avg_char_comparisons": 24230
     },
     {
       "array_type": "almost_sorted",
       "size": 2900,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 15258,
+      "avg_time_us": 15367,
       "avg_char_comparisons": 200650
     },
     {
       "array_type": "almost_sorted",
       "size": 2900,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 5130,
+      "avg_time_us": 5092,
       "avg_char_comparisons": 39695
     },
     {
       "array_type": "almost_sorted",
       "size": 2900,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 5588,
+      "avg_time_us": 5613,
       "avg_char_comparisons": 46356
     },
     {
       "array_type": "almost_sorted",
       "size": 2900,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4051,
+      "avg_time_us": 4058,
       "avg_char_comparisons": 27112
     },
     {
       "array_type": "almost_sorted",
       "size": 2900,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1278,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1290,
       "avg_char_comparisons": 14110
     },
     {
       "array_type": "almost_sorted",
       "size": 2900,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3037,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3092,
       "avg_char_comparisons": 25400
     },
     {
       "array_type": "almost_sorted",
       "size": 3000,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 14950,
+      "avg_time_us": 14763,
       "avg_char_comparisons": 229502
     },
     {
       "array_type": "almost_sorted",
       "size": 3000,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 5465,
+      "avg_time_us": 5258,
       "avg_char_comparisons": 41138
     },
     {
       "array_type": "almost_sorted",
       "size": 3000,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 5583,
+      "avg_time_us": 5627,
       "avg_char_comparisons": 45799
     },
     {
       "array_type": "almost_sorted",
       "size": 3000,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4155,
+      "avg_time_us": 4094,
       "avg_char_comparisons": 28271
     },
     {
       "array_type": "almost_sorted",
       "size": 3000,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1299,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1241,
       "avg_char_comparisons": 14596
     },
     {
       "array_type": "almost_sorted",
       "size": 3000,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3097,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3130,
       "avg_char_comparisons": 26563
     },
     {
       "array_type": "common_prefix",
       "size": 100,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 137,
+      "avg_time_us": 133,
       "avg_char_comparisons": 7176
     },
     {
       "array_type": "common_prefix",
       "size": 100,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 156,
+      "avg_time_us": 161,
       "avg_char_comparisons": 5420
     },
     {
       "array_type": "common_prefix",
       "size": 100,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 96,
+      "avg_time_us": 92,
       "avg_char_comparisons": 1605
     },
     {
       "array_type": "common_prefix",
       "size": 100,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 107,
+      "avg_time_us": 113,
       "avg_char_comparisons": 1868
     },
     {
       "array_type": "common_prefix",
       "size": 100,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 100,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 103,
       "avg_char_comparisons": 2148
     },
     {
       "array_type": "common_prefix",
       "size": 100,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 83,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 82,
       "avg_char_comparisons": 2095
     },
     {
       "array_type": "common_prefix",
       "size": 200,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 279,
+      "avg_time_us": 282,
       "avg_char_comparisons": 15858
     },
     {
       "array_type": "common_prefix",
       "size": 200,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 360,
+      "avg_time_us": 357,
       "avg_char_comparisons": 13028
     },
     {
       "array_type": "common_prefix",
       "size": 200,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 199,
+      "avg_time_us": 206,
       "avg_char_comparisons": 3357
     },
     {
       "array_type": "common_prefix",
       "size": 200,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 236,
+      "avg_time_us": 235,
       "avg_char_comparisons": 3979
     },
     {
       "array_type": "common_prefix",
       "size": 200,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 200,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 205,
       "avg_char_comparisons": 4380
     },
     {
       "array_type": "common_prefix",
       "size": 200,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 189,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 209,
       "avg_char_comparisons": 4310
     },
     {
       "array_type": "common_prefix",
       "size": 300,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 451,
+      "avg_time_us": 498,
       "avg_char_comparisons": 24749
     },
     {
       "array_type": "common_prefix",
       "size": 300,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 591,
+      "avg_time_us": 597,
       "avg_char_comparisons": 21557
     },
     {
       "array_type": "common_prefix",
       "size": 300,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 328,
+      "avg_time_us": 326,
       "avg_char_comparisons": 5216
     },
     {
       "array_type": "common_prefix",
       "size": 300,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 374,
+      "avg_time_us": 378,
       "avg_char_comparisons": 6240
     },
     {
       "array_type": "common_prefix",
       "size": 300,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 284,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 298,
       "avg_char_comparisons": 6618
     },
     {
       "array_type": "common_prefix",
       "size": 300,
-      "algorithm": "MSB RADIX SORT (С переключением)",
+      "algorithm": "MSD RADIX SORT (С переключением)",
       "avg_time_us": 286,
       "avg_char_comparisons": 6589
     },
@@ -3910,308 +3910,308 @@
       "array_type": "common_prefix",
       "size": 400,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 647,
+      "avg_time_us": 687,
       "avg_char_comparisons": 35719
     },
     {
       "array_type": "common_prefix",
       "size": 400,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 908,
+      "avg_time_us": 855,
       "avg_char_comparisons": 30168
     },
     {
       "array_type": "common_prefix",
       "size": 400,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 449,
+      "avg_time_us": 483,
       "avg_char_comparisons": 7205
     },
     {
       "array_type": "common_prefix",
       "size": 400,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 499,
+      "avg_time_us": 491,
       "avg_char_comparisons": 8536
     },
     {
       "array_type": "common_prefix",
       "size": 400,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 364,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 367,
       "avg_char_comparisons": 8848
     },
     {
       "array_type": "common_prefix",
       "size": 400,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 412,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 411,
       "avg_char_comparisons": 8908
     },
     {
       "array_type": "common_prefix",
       "size": 500,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 949,
+      "avg_time_us": 920,
       "avg_char_comparisons": 49390
     },
     {
       "array_type": "common_prefix",
       "size": 500,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1081,
+      "avg_time_us": 1064,
       "avg_char_comparisons": 39643
     },
     {
       "array_type": "common_prefix",
       "size": 500,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 589,
+      "avg_time_us": 600,
       "avg_char_comparisons": 9125
     },
     {
       "array_type": "common_prefix",
       "size": 500,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 643,
+      "avg_time_us": 803,
       "avg_char_comparisons": 11002
     },
     {
       "array_type": "common_prefix",
       "size": 500,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 485,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 475,
       "avg_char_comparisons": 11114
     },
     {
       "array_type": "common_prefix",
       "size": 500,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 574,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 528,
       "avg_char_comparisons": 11349
     },
     {
       "array_type": "common_prefix",
       "size": 600,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1150,
+      "avg_time_us": 1147,
       "avg_char_comparisons": 64914
     },
     {
       "array_type": "common_prefix",
       "size": 600,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1307,
+      "avg_time_us": 1337,
       "avg_char_comparisons": 49520
     },
     {
       "array_type": "common_prefix",
       "size": 600,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 745,
+      "avg_time_us": 723,
       "avg_char_comparisons": 11204
     },
     {
       "array_type": "common_prefix",
       "size": 600,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 787,
+      "avg_time_us": 779,
       "avg_char_comparisons": 13454
     },
     {
       "array_type": "common_prefix",
       "size": 600,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 535,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 536,
       "avg_char_comparisons": 13354
     },
     {
       "array_type": "common_prefix",
       "size": 600,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 663,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 678,
       "avg_char_comparisons": 13786
     },
     {
       "array_type": "common_prefix",
       "size": 700,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1234,
+      "avg_time_us": 1228,
       "avg_char_comparisons": 64506
     },
     {
       "array_type": "common_prefix",
       "size": 700,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1605,
+      "avg_time_us": 1582,
       "avg_char_comparisons": 59344
     },
     {
       "array_type": "common_prefix",
       "size": 700,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 901,
+      "avg_time_us": 940,
       "avg_char_comparisons": 13545
     },
     {
       "array_type": "common_prefix",
       "size": 700,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 937,
+      "avg_time_us": 941,
       "avg_char_comparisons": 15965
     },
     {
       "array_type": "common_prefix",
       "size": 700,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 618,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 630,
       "avg_char_comparisons": 15582
     },
     {
       "array_type": "common_prefix",
       "size": 700,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 795,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 800,
       "avg_char_comparisons": 16234
     },
     {
       "array_type": "common_prefix",
       "size": 800,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1563,
+      "avg_time_us": 1590,
       "avg_char_comparisons": 85182
     },
     {
       "array_type": "common_prefix",
       "size": 800,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 1884,
+      "avg_time_us": 1849,
       "avg_char_comparisons": 69273
     },
     {
       "array_type": "common_prefix",
       "size": 800,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1056,
+      "avg_time_us": 1055,
       "avg_char_comparisons": 15593
     },
     {
       "array_type": "common_prefix",
       "size": 800,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1096,
+      "avg_time_us": 1131,
       "avg_char_comparisons": 18427
     },
     {
       "array_type": "common_prefix",
       "size": 800,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 745,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 739,
       "avg_char_comparisons": 17830
     },
     {
       "array_type": "common_prefix",
       "size": 800,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 931,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 898,
       "avg_char_comparisons": 18557
     },
     {
       "array_type": "common_prefix",
       "size": 900,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 1721,
+      "avg_time_us": 1849,
       "avg_char_comparisons": 91094
     },
     {
       "array_type": "common_prefix",
       "size": 900,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2149,
+      "avg_time_us": 2090,
       "avg_char_comparisons": 79726
     },
     {
       "array_type": "common_prefix",
       "size": 900,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1167,
+      "avg_time_us": 1217,
       "avg_char_comparisons": 17399
     },
     {
       "array_type": "common_prefix",
       "size": 900,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1235,
+      "avg_time_us": 1234,
       "avg_char_comparisons": 21134
     },
     {
       "array_type": "common_prefix",
       "size": 900,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 803,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 818,
       "avg_char_comparisons": 20080
     },
     {
       "array_type": "common_prefix",
       "size": 900,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1099,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1086,
       "avg_char_comparisons": 21170
     },
     {
       "array_type": "common_prefix",
       "size": 1000,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 2099,
+      "avg_time_us": 2124,
       "avg_char_comparisons": 113589
     },
     {
       "array_type": "common_prefix",
       "size": 1000,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2406,
+      "avg_time_us": 2361,
       "avg_char_comparisons": 90078
     },
     {
       "array_type": "common_prefix",
       "size": 1000,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1323,
+      "avg_time_us": 1353,
       "avg_char_comparisons": 19429
     },
     {
       "array_type": "common_prefix",
       "size": 1000,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1413,
+      "avg_time_us": 1397,
       "avg_char_comparisons": 23787
     },
     {
       "array_type": "common_prefix",
       "size": 1000,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 894,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 911,
       "avg_char_comparisons": 22344
     },
     {
       "array_type": "common_prefix",
       "size": 1000,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1250,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1204,
       "avg_char_comparisons": 23722
     },
     {
       "array_type": "common_prefix",
       "size": 1100,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 2472,
+      "avg_time_us": 2426,
       "avg_char_comparisons": 127928
     },
     {
       "array_type": "common_prefix",
       "size": 1100,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2688,
+      "avg_time_us": 2701,
       "avg_char_comparisons": 100863
     },
     {
@@ -4225,819 +4225,819 @@
       "array_type": "common_prefix",
       "size": 1100,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1555,
+      "avg_time_us": 1585,
       "avg_char_comparisons": 26342
     },
     {
       "array_type": "common_prefix",
       "size": 1100,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1017,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 983,
       "avg_char_comparisons": 24604
     },
     {
       "array_type": "common_prefix",
       "size": 1100,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1332,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1530,
       "avg_char_comparisons": 26205
     },
     {
       "array_type": "common_prefix",
       "size": 1200,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 2523,
+      "avg_time_us": 2529,
       "avg_char_comparisons": 135189
     },
     {
       "array_type": "common_prefix",
       "size": 1200,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 2911,
+      "avg_time_us": 2955,
       "avg_char_comparisons": 112046
     },
     {
       "array_type": "common_prefix",
       "size": 1200,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1628,
+      "avg_time_us": 1588,
       "avg_char_comparisons": 23561
     },
     {
       "array_type": "common_prefix",
       "size": 1200,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1720,
+      "avg_time_us": 1718,
       "avg_char_comparisons": 29065
     },
     {
       "array_type": "common_prefix",
       "size": 1200,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1213,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1079,
       "avg_char_comparisons": 26896
     },
     {
       "array_type": "common_prefix",
       "size": 1200,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1451,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1604,
       "avg_char_comparisons": 28636
     },
     {
       "array_type": "common_prefix",
       "size": 1300,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3171,
+      "avg_time_us": 3157,
       "avg_char_comparisons": 175659
     },
     {
       "array_type": "common_prefix",
       "size": 1300,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3216,
+      "avg_time_us": 3213,
       "avg_char_comparisons": 122497
     },
     {
       "array_type": "common_prefix",
       "size": 1300,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1840,
+      "avg_time_us": 1786,
       "avg_char_comparisons": 26045
     },
     {
       "array_type": "common_prefix",
       "size": 1300,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 1885,
+      "avg_time_us": 1853,
       "avg_char_comparisons": 31541
     },
     {
       "array_type": "common_prefix",
       "size": 1300,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1192,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1190,
       "avg_char_comparisons": 29188
     },
     {
       "array_type": "common_prefix",
       "size": 1300,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1639,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1671,
       "avg_char_comparisons": 31239
     },
     {
       "array_type": "common_prefix",
       "size": 1400,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3570,
+      "avg_time_us": 3476,
       "avg_char_comparisons": 179357
     },
     {
       "array_type": "common_prefix",
       "size": 1400,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3523,
+      "avg_time_us": 3552,
       "avg_char_comparisons": 133586
     },
     {
       "array_type": "common_prefix",
       "size": 1400,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 1929,
+      "avg_time_us": 1944,
       "avg_char_comparisons": 27863
     },
     {
       "array_type": "common_prefix",
       "size": 1400,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2011,
+      "avg_time_us": 2036,
       "avg_char_comparisons": 34223
     },
     {
       "array_type": "common_prefix",
       "size": 1400,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1309,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1302,
       "avg_char_comparisons": 31460
     },
     {
       "array_type": "common_prefix",
       "size": 1400,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1762,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1754,
       "avg_char_comparisons": 33789
     },
     {
       "array_type": "common_prefix",
       "size": 1500,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3328,
+      "avg_time_us": 3308,
       "avg_char_comparisons": 171572
     },
     {
       "array_type": "common_prefix",
       "size": 1500,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 3910,
+      "avg_time_us": 3800,
       "avg_char_comparisons": 144901
     },
     {
       "array_type": "common_prefix",
       "size": 1500,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2168,
+      "avg_time_us": 2169,
       "avg_char_comparisons": 30497
     },
     {
       "array_type": "common_prefix",
       "size": 1500,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2220,
+      "avg_time_us": 2248,
       "avg_char_comparisons": 37114
     },
     {
       "array_type": "common_prefix",
       "size": 1500,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1485,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1439,
       "avg_char_comparisons": 33754
     },
     {
       "array_type": "common_prefix",
       "size": 1500,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 1886,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 1891,
       "avg_char_comparisons": 36291
     },
     {
       "array_type": "common_prefix",
       "size": 1600,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3632,
+      "avg_time_us": 3627,
       "avg_char_comparisons": 189302
     },
     {
       "array_type": "common_prefix",
       "size": 1600,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4113,
+      "avg_time_us": 4055,
       "avg_char_comparisons": 156116
     },
     {
       "array_type": "common_prefix",
       "size": 1600,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2434,
+      "avg_time_us": 2389,
       "avg_char_comparisons": 33178
     },
     {
       "array_type": "common_prefix",
       "size": 1600,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2355,
+      "avg_time_us": 2339,
       "avg_char_comparisons": 39717
     },
     {
       "array_type": "common_prefix",
       "size": 1600,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1560,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1464,
       "avg_char_comparisons": 36050
     },
     {
       "array_type": "common_prefix",
       "size": 1600,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2111,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2062,
       "avg_char_comparisons": 38972
     },
     {
       "array_type": "common_prefix",
       "size": 1700,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 3874,
+      "avg_time_us": 3742,
       "avg_char_comparisons": 211115
     },
     {
       "array_type": "common_prefix",
       "size": 1700,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4534,
+      "avg_time_us": 4496,
       "avg_char_comparisons": 167518
     },
     {
       "array_type": "common_prefix",
       "size": 1700,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2489,
+      "avg_time_us": 2598,
       "avg_char_comparisons": 34912
     },
     {
       "array_type": "common_prefix",
       "size": 1700,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2535,
+      "avg_time_us": 2502,
       "avg_char_comparisons": 42514
     },
     {
       "array_type": "common_prefix",
       "size": 1700,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1626,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1572,
       "avg_char_comparisons": 38352
     },
     {
       "array_type": "common_prefix",
       "size": 1700,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2258,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2213,
       "avg_char_comparisons": 41680
     },
     {
       "array_type": "common_prefix",
       "size": 1800,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 4053,
+      "avg_time_us": 4009,
       "avg_char_comparisons": 208366
     },
     {
       "array_type": "common_prefix",
       "size": 1800,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 4802,
+      "avg_time_us": 4742,
       "avg_char_comparisons": 179236
     },
     {
       "array_type": "common_prefix",
       "size": 1800,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2719,
+      "avg_time_us": 2612,
       "avg_char_comparisons": 36737
     },
     {
       "array_type": "common_prefix",
       "size": 1800,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2730,
+      "avg_time_us": 2743,
       "avg_char_comparisons": 45310
     },
     {
       "array_type": "common_prefix",
       "size": 1800,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1733,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1711,
       "avg_char_comparisons": 40676
     },
     {
       "array_type": "common_prefix",
       "size": 1800,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2496,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2447,
       "avg_char_comparisons": 44258
     },
     {
       "array_type": "common_prefix",
       "size": 1900,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 4549,
+      "avg_time_us": 4510,
       "avg_char_comparisons": 238124
     },
     {
       "array_type": "common_prefix",
       "size": 1900,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 5254,
+      "avg_time_us": 5093,
       "avg_char_comparisons": 190417
     },
     {
       "array_type": "common_prefix",
       "size": 1900,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2821,
+      "avg_time_us": 2783,
       "avg_char_comparisons": 38377
     },
     {
       "array_type": "common_prefix",
       "size": 1900,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 2871,
+      "avg_time_us": 2842,
       "avg_char_comparisons": 47959
     },
     {
       "array_type": "common_prefix",
       "size": 1900,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1840,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1947,
       "avg_char_comparisons": 43004
     },
     {
       "array_type": "common_prefix",
       "size": 1900,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2653,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2536,
       "avg_char_comparisons": 46795
     },
     {
       "array_type": "common_prefix",
       "size": 2000,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 4786,
+      "avg_time_us": 4691,
       "avg_char_comparisons": 254503
     },
     {
       "array_type": "common_prefix",
       "size": 2000,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 5418,
+      "avg_time_us": 5315,
       "avg_char_comparisons": 201890
     },
     {
       "array_type": "common_prefix",
       "size": 2000,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 2976,
+      "avg_time_us": 2975,
       "avg_char_comparisons": 41126
     },
     {
       "array_type": "common_prefix",
       "size": 2000,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3075,
+      "avg_time_us": 2978,
       "avg_char_comparisons": 50787
     },
     {
       "array_type": "common_prefix",
       "size": 2000,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 1940,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 1915,
       "avg_char_comparisons": 45312
     },
     {
       "array_type": "common_prefix",
       "size": 2000,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2720,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2686,
       "avg_char_comparisons": 49419
     },
     {
       "array_type": "common_prefix",
       "size": 2100,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 4888,
+      "avg_time_us": 4689,
       "avg_char_comparisons": 253620
     },
     {
       "array_type": "common_prefix",
       "size": 2100,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 5597,
+      "avg_time_us": 5622,
       "avg_char_comparisons": 213774
     },
     {
       "array_type": "common_prefix",
       "size": 2100,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3161,
+      "avg_time_us": 3193,
       "avg_char_comparisons": 43851
     },
     {
       "array_type": "common_prefix",
       "size": 2100,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3204,
+      "avg_time_us": 3168,
       "avg_char_comparisons": 53520
     },
     {
       "array_type": "common_prefix",
       "size": 2100,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 2094,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 2056,
       "avg_char_comparisons": 47616
     },
     {
       "array_type": "common_prefix",
       "size": 2100,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 2917,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 2813,
       "avg_char_comparisons": 52115
     },
     {
       "array_type": "common_prefix",
       "size": 2200,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 5883,
+      "avg_time_us": 5709,
       "avg_char_comparisons": 308516
     },
     {
       "array_type": "common_prefix",
       "size": 2200,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 6124,
+      "avg_time_us": 6002,
       "avg_char_comparisons": 225932
     },
     {
       "array_type": "common_prefix",
       "size": 2200,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3406,
+      "avg_time_us": 3374,
       "avg_char_comparisons": 46394
     },
     {
       "array_type": "common_prefix",
       "size": 2200,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3324,
+      "avg_time_us": 3362,
       "avg_char_comparisons": 56357
     },
     {
       "array_type": "common_prefix",
       "size": 2200,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 2227,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 2175,
       "avg_char_comparisons": 49970
     },
     {
       "array_type": "common_prefix",
       "size": 2200,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3204,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3012,
       "avg_char_comparisons": 54820
     },
     {
       "array_type": "common_prefix",
       "size": 2300,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 5567,
+      "avg_time_us": 5477,
       "avg_char_comparisons": 303880
     },
     {
       "array_type": "common_prefix",
       "size": 2300,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 6311,
+      "avg_time_us": 6291,
       "avg_char_comparisons": 238070
     },
     {
       "array_type": "common_prefix",
       "size": 2300,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3336,
+      "avg_time_us": 3301,
       "avg_char_comparisons": 46829
     },
     {
       "array_type": "common_prefix",
       "size": 2300,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3576,
+      "avg_time_us": 3548,
       "avg_char_comparisons": 59201
     },
     {
       "array_type": "common_prefix",
       "size": 2300,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 2256,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 2216,
       "avg_char_comparisons": 52280
     },
     {
       "array_type": "common_prefix",
       "size": 2300,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3338,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3218,
       "avg_char_comparisons": 57511
     },
     {
       "array_type": "common_prefix",
       "size": 2400,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 5846,
+      "avg_time_us": 5795,
       "avg_char_comparisons": 311169
     },
     {
       "array_type": "common_prefix",
       "size": 2400,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 6473,
+      "avg_time_us": 6533,
       "avg_char_comparisons": 250463
     },
     {
       "array_type": "common_prefix",
       "size": 2400,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3480,
+      "avg_time_us": 3570,
       "avg_char_comparisons": 49422
     },
     {
       "array_type": "common_prefix",
       "size": 2400,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3612,
+      "avg_time_us": 3762,
       "avg_char_comparisons": 62047
     },
     {
       "array_type": "common_prefix",
       "size": 2400,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 2337,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 2329,
       "avg_char_comparisons": 54606
     },
     {
       "array_type": "common_prefix",
       "size": 2400,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3341,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3406,
       "avg_char_comparisons": 59861
     },
     {
       "array_type": "common_prefix",
       "size": 2500,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 6134,
+      "avg_time_us": 6091,
       "avg_char_comparisons": 322451
     },
     {
       "array_type": "common_prefix",
       "size": 2500,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 6960,
+      "avg_time_us": 6833,
       "avg_char_comparisons": 261821
     },
     {
       "array_type": "common_prefix",
       "size": 2500,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3743,
+      "avg_time_us": 3731,
       "avg_char_comparisons": 51088
     },
     {
       "array_type": "common_prefix",
       "size": 2500,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 3923,
+      "avg_time_us": 3958,
       "avg_char_comparisons": 64646
     },
     {
       "array_type": "common_prefix",
       "size": 2500,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 2670,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 2470,
       "avg_char_comparisons": 56928
     },
     {
       "array_type": "common_prefix",
       "size": 2500,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3504,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3463,
       "avg_char_comparisons": 62563
     },
     {
       "array_type": "common_prefix",
       "size": 2600,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 6232,
+      "avg_time_us": 6190,
       "avg_char_comparisons": 331828
     },
     {
       "array_type": "common_prefix",
       "size": 2600,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 7478,
+      "avg_time_us": 7017,
       "avg_char_comparisons": 273726
     },
     {
       "array_type": "common_prefix",
       "size": 2600,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 3949,
+      "avg_time_us": 3874,
       "avg_char_comparisons": 53708
     },
     {
       "array_type": "common_prefix",
       "size": 2600,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4112,
+      "avg_time_us": 3959,
       "avg_char_comparisons": 67537
     },
     {
       "array_type": "common_prefix",
       "size": 2600,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 2611,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 2527,
       "avg_char_comparisons": 59270
     },
     {
       "array_type": "common_prefix",
       "size": 2600,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3672,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3582,
       "avg_char_comparisons": 65239
     },
     {
       "array_type": "common_prefix",
       "size": 2700,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 6630,
+      "avg_time_us": 6345,
       "avg_char_comparisons": 355459
     },
     {
       "array_type": "common_prefix",
       "size": 2700,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 7713,
+      "avg_time_us": 7395,
       "avg_char_comparisons": 286347
     },
     {
       "array_type": "common_prefix",
       "size": 2700,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4382,
+      "avg_time_us": 4214,
       "avg_char_comparisons": 57334
     },
     {
       "array_type": "common_prefix",
       "size": 2700,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4238,
+      "avg_time_us": 4167,
       "avg_char_comparisons": 70488
     },
     {
       "array_type": "common_prefix",
       "size": 2700,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 2730,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 2620,
       "avg_char_comparisons": 61634
     },
     {
       "array_type": "common_prefix",
       "size": 2700,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 3833,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3825,
       "avg_char_comparisons": 68156
     },
     {
       "array_type": "common_prefix",
       "size": 2800,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 7306,
+      "avg_time_us": 7326,
       "avg_char_comparisons": 387179
     },
     {
       "array_type": "common_prefix",
       "size": 2800,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 7934,
+      "avg_time_us": 7690,
       "avg_char_comparisons": 298285
     },
     {
       "array_type": "common_prefix",
       "size": 2800,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4480,
+      "avg_time_us": 4454,
       "avg_char_comparisons": 60174
     },
     {
       "array_type": "common_prefix",
       "size": 2800,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4533,
+      "avg_time_us": 4319,
       "avg_char_comparisons": 73196
     },
     {
       "array_type": "common_prefix",
       "size": 2800,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 2916,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 2822,
       "avg_char_comparisons": 63982
     },
     {
       "array_type": "common_prefix",
       "size": 2800,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 4190,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 3956,
       "avg_char_comparisons": 70912
     },
     {
       "array_type": "common_prefix",
       "size": 2900,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 7521,
+      "avg_time_us": 7318,
       "avg_char_comparisons": 388387
     },
     {
       "array_type": "common_prefix",
       "size": 2900,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 8276,
+      "avg_time_us": 8068,
       "avg_char_comparisons": 310988
     },
     {
       "array_type": "common_prefix",
       "size": 2900,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4776,
+      "avg_time_us": 4653,
       "avg_char_comparisons": 62850
     },
     {
       "array_type": "common_prefix",
       "size": 2900,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4758,
+      "avg_time_us": 4491,
       "avg_char_comparisons": 76249
     },
     {
       "array_type": "common_prefix",
       "size": 2900,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 2999,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 2988,
       "avg_char_comparisons": 66336
     },
     {
       "array_type": "common_prefix",
       "size": 2900,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 4160,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 4131,
       "avg_char_comparisons": 73286
     },
     {
       "array_type": "common_prefix",
       "size": 3000,
       "algorithm": "QUICKSORT (Стандартный)",
-      "avg_time_us": 8040,
+      "avg_time_us": 7975,
       "avg_char_comparisons": 421907
     },
     {
       "array_type": "common_prefix",
       "size": 3000,
       "algorithm": "MERGESORT (Стандартный)",
-      "avg_time_us": 8688,
+      "avg_time_us": 8443,
       "avg_char_comparisons": 322818
     },
     {
       "array_type": "common_prefix",
       "size": 3000,
       "algorithm": "STRING QUICKSORT (Тернарный)",
-      "avg_time_us": 4810,
+      "avg_time_us": 4606,
       "avg_char_comparisons": 63314
     },
     {
       "array_type": "common_prefix",
       "size": 3000,
       "algorithm": "STRING MERGESORT",
-      "avg_time_us": 4742,
+      "avg_time_us": 4686,
       "avg_char_comparisons": 78858
     },
     {
       "array_type": "common_prefix",
       "size": 3000,
-      "algorithm": "MSB RADIX SORT (Без переключения)",
-      "avg_time_us": 3076,
+      "algorithm": "MSD RADIX SORT (Без переключения)",
+      "avg_time_us": 2978,
       "avg_char_comparisons": 68668
     },
     {
       "array_type": "common_prefix",
       "size": 3000,
-      "algorithm": "MSB RADIX SORT (С переключением)",
-      "avg_time_us": 4381,
+      "algorithm": "MSD RADIX SORT (С переключением)",
+      "avg_time_us": 4347,
       "avg_char_comparisons": 76242
     }
   ]

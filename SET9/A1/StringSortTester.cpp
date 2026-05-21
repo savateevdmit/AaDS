@@ -115,9 +115,9 @@ public:
                         } else if (alg == 3) {
                             stringMergeSort(cur, cnt);
                         } else if (alg == 4) {
-                            msbRadixSort(cur, cnt);
+                            msdRadixSort(cur, cnt);
                         } else if (alg == 5) {
-                            msbRadixSortWithCutoff(cur, cnt);
+                            msdRadixSortWithCutoff(cur, cnt);
                         }
 
                         auto fn = std::chrono::high_resolution_clock::now();
@@ -145,9 +145,9 @@ public:
                     } else if (alg == 3) {
                         algName = "STRING MERGESORT";
                     } else if (alg == 4) {
-                        algName = "MSB RADIX SORT (Без переключения)";
+                        algName = "MSD RADIX SORT (Без переключения)";
                     } else if (alg == 5) {
-                        algName = "MSB RADIX SORT (С переключением)";
+                        algName = "MSD RADIX SORT (С переключением)";
                     }
 
                     out << "      \"algorithm\": \"" << algName << "\",\n";

@@ -20,12 +20,12 @@ array_type_names = {
 }
 
 ALG_ORDER = [
-    'QUICKSORT (стандартный)',
-    'MERGESORT (стандартный)',
-    'STRING QUICKSORT (тернарный)',
+    'QUICKSORT (Стандартный)',
+    'MERGESORT (Стандартный)',
+    'STRING QUICKSORT (Тернарный)',
     'STRING MERGESORT',
-    'MSB RADIX SORT (без переключения)',
-    'MSB RADIX SORT (с переключением)',
+    'MSD RADIX SORT (Без переключения)',
+    'MSD RADIX SORT (С переключением)',
 ]
 
 colors = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#e377c2']
